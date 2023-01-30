@@ -8,8 +8,8 @@ carousel of projects
 
 <h2>📈 Key Experiences</h2>
 
-<p>list, organize by research, volunteering, and work?</p>
-<p>logos instead of bullet points, clicking logo takes you to company site</p>
+<p>list, organize by research, volunteering, and work?<br>
+logos instead of bullet points, clicking logo takes you to company site</p>
 
 <h2>🏆 Awards and Press</h2>
 
