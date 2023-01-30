@@ -1,3 +1,5 @@
+<h1><span style="color: white;">Sohi Patel</span></h1>
+
 ## 👋 Hi, I'm Sohi!
 
 The DICE Initiative is College Park High School's premier entrepreneurship club. We work closely with our community to bring fresh talent to the Greater Houston business scene.
@@ -8,7 +10,7 @@ Members sharpen their own skills through real-world experience while selflessly 
 Since 2020, DICE has partnered with and completed projects for nearly three dozen organizations. Our mission is simple: help students develop both the acute skillset and altruistic drive necessary to succeed in the modern entrepreneurial age.
 
 
-## Featured Work
+## 🔧 Featured Work
 
 The DICE Initiative is powered by [MIT LaunchX](https://launchx.com/).
 
@@ -16,7 +18,7 @@ From 2017 to 2020, DICE acted as an incubator, preparing teams to enter hypothet
 
 View our project showcase here.
 
-## Key Experiences
+## 📈 Key Experiences
 
 DICE members form marketing, software development, and business management teams. Each team partners with an organization they have the skillset to help and are interested in. Teams complete projects during the school year and present their work at a celebratory springtime gala.
 
