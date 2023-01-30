@@ -1,26 +1,67 @@
+
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+<style>
+* {
+  box-sizing: border-box;
+  font-family: Calibri, sans-serif;
+}
 
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,maximum-scale=2">
-    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+body {
+  margin: 20;
+  font-family: Calibri, sans-serif;
+}
 
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
-{% seo %}
-  </head>
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #000000;
+}
 
-  <body>
-<header class="page-header"  
-        role="banner">
-      <img src="https://user-images.githubusercontent.com/69354578/215386416-600daf55-1de5-4c30-813a-7dca9b57c612.png" width=600>
-</header>
-<main id="content" class="main-content" role="main">
-       {{ content }}
-      <footer class="site-footer">
-        &copy; 2023 Sohi Patel. All rights reserved.
-      </footer>
-</main>
-  </body>
+/* Style the topnav links */
+.topnav a {
+  float: center;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #FFFFFF;
+  color: black;
+}
+
+.content {
+  background-color: #FFFFFF;
+  padding: 10px;
+  height: 200px; /* Should be removed. Only for demonstration */
+}
+
+.footer {
+  background-color: #000000;
+  padding: 10px;
+}
+</style>
+</head>
+<body>
+
+<div class="topnav">
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+</div>
+
+<div class="footer">
+  <p>Footer</p>
+</div>
+
+</body>
 </html>
