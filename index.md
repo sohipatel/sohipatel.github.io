@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Sohi!
 
-blah blah blah introduction
+<img src="https://github.com/thediceinitiative/thediceinitiative.github.io/blob/main/headshot.jpeg?raw=true" height=200>
+  <p>Sohi is a senior at the Academy of Science and Technology and has served on the DICE board since 2020. She has experience in business management, strategic leadership, and public speaking. Sohi loves to invent solutions to problems and enjoys using her extensive STEM skillset to help the community around her.</p>
 
 ## 🔧 Featured Work
 
