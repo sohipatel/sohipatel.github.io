@@ -9,11 +9,11 @@ linked info cards
 
 ## 📈 Key Experiences
 
-<p><img src="https://user-images.githubusercontent.com/69354578/215586597-aec7a3e2-8bd2-4f45-8096-eacaa5976ec6.png" height=50>   **MIT Lincoln Laboratory** Researched radar technology for application in semi-autonomous weapons systems. </p><br>
-<p><img src="https://user-images.githubusercontent.com/69354578/215586736-3b97dff7-baae-453a-a149-b1b80f730330.png" height=50>   **NASA Johnson Space Center** Built a VR microgravity particulate simulator for the Psyche and OSIRIS-APEX missions. </p><br>
-<p><img src="https://user-images.githubusercontent.com/69354578/215586946-eccf09e6-1eef-47c1-a52e-4087f8c92937.png" height=50>   **Houston Museum of Natural Science** Designed, animated, and filmed 2 best-selling planetarium shows. </p><br>
-<p><img src="https://user-images.githubusercontent.com/69354578/215587123-aee87a9d-c5a2-4756-8ca3-f5f4bde54007.png" height=50>   **TechTogether** Raised $14k+ by recruiting sponsors such as Amazon, Verizon, and Microsoft.</p><br>
-<p><img src="https://user-images.githubusercontent.com/69354578/215587287-e85fb3b5-ed86-4ada-8804-494315cdbf3b.png" height=50>   **The DICE Initiative** Connected 100+ student volunteers with 30+ local businesses to complete service projects. </p>
+<h4><p><img src="https://user-images.githubusercontent.com/69354578/215586597-aec7a3e2-8bd2-4f45-8096-eacaa5976ec6.png" height=50>      MIT Lincoln Laboratory</h4> Researched radar technology for application in semi-autonomous weapons systems. </p><br>
+<h4><p><img src="https://user-images.githubusercontent.com/69354578/215586736-3b97dff7-baae-453a-a149-b1b80f730330.png" height=50>      NASA Johnson Space Center</h4> Built a VR microgravity particulate simulator for the Psyche and OSIRIS-APEX missions. </p><br>
+<h4><p><img src="https://user-images.githubusercontent.com/69354578/215586946-eccf09e6-1eef-47c1-a52e-4087f8c92937.png" height=50>      Houston Museum of Natural Science</h4> Designed, animated, and filmed 2 best-selling planetarium shows. </p><br>
+<h4><p><img src="https://user-images.githubusercontent.com/69354578/215587123-aee87a9d-c5a2-4756-8ca3-f5f4bde54007.png" height=50>      TechTogether</h4> Raised $14k+ by recruiting sponsors such as Amazon, Verizon, and Microsoft.</p><br>
+<h4><p><img src="https://user-images.githubusercontent.com/69354578/215587287-e85fb3b5-ed86-4ada-8804-494315cdbf3b.png" height=50>      The DICE Initiative</h4> Connected 100+ student volunteers with 30+ local businesses to complete service projects. </p>
 
 ## 🏆 Awards and Press
 
