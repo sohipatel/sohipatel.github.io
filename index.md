@@ -4,7 +4,7 @@
 
 <h2>🔧 Featured Work</h2>
 
-{% include slider.html selector="example_slider" %}
+carousel of projects
 
 <h2>📈 Key Experiences</h2>
 
