@@ -1,16 +1,17 @@
-<h2>👋 Hi, I'm Sohi!</h2>
+## 👋 Hi, I'm Sohi!
 
-<p>blah blah blah introduction</p>
+blah blah blah introduction
 
-<h2>🔧 Featured Work</h2>
+## 🔧 Featured Work
 
 carousel of projects
 
-<h2>📈 Key Experiences</h2>
+## 📈 Key Experiences
 
-<p>list, organize by research, volunteering, and work?<br>
-logos instead of bullet points, clicking logo takes you to company site</p>
+list, organize by research, volunteering, and work?
 
-<h2>🏆 Awards and Press</h2>
+logos instead of bullet points, clicking logo takes you to company site
 
-<p>list w links, see okezue and elizabeth</p>
+## 🏆 Awards and Press
+
+list w links, see okezue and elizabeth
