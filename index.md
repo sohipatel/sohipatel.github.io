@@ -1,5 +1,3 @@
-<h1><span style="color: white;">Sohi Patel</span></h1>
-
 ## 👋 Hi, I'm Sohi!
 
 The DICE Initiative is College Park High School's premier entrepreneurship club. We work closely with our community to bring fresh talent to the Greater Houston business scene.
