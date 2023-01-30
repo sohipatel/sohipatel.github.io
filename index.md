@@ -1,4 +1,4 @@
-# About Me
+## About Me
 
 The DICE Initiative is College Park High School's premier entrepreneurship club. We work closely with our community to bring fresh talent to the Greater Houston business scene.
 
