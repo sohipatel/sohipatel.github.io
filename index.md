@@ -19,12 +19,24 @@
         <div class="carousel-item">
             <img src="https://user-images.githubusercontent.com/69354578/215793760-ccb0b5ee-e647-44d4-adaf-fb2fa0c01421.png">
         </div>
-        <label for="carousel-3" class="carousel-control prev control-1">‹</label>
-        <label for="carousel-2" class="carousel-control next control-1">›</label>
-        <label for="carousel-1" class="carousel-control prev control-2">‹</label>
-        <label for="carousel-3" class="carousel-control next control-2">›</label>
-        <label for="carousel-2" class="carousel-control prev control-3">‹</label>
-        <label for="carousel-1" class="carousel-control next control-3">›</label>
+        <input class="carousel-open" type="radio" id="carousel-4" name="carousel" aria-hidden="true" hidden="">
+        <div class="carousel-item">
+            <img src="https://user-images.githubusercontent.com/69354578/215793348-e5b99961-e124-42e9-b845-f3f2d8ca5114.png">
+        </div>
+        <input class="carousel-open" type="radio" id="carousel-5" name="carousel" aria-hidden="true" hidden="">
+        <div class="carousel-item">
+            <img src="https://user-images.githubusercontent.com/69354578/215793348-e5b99961-e124-42e9-b845-f3f2d8ca5114.png">
+        </div>
+        <label for="carousel-5" class="carousel-control prev control-1">‹</label>
+        <label for="carousel-4" class="carousel-control prev control-1">‹</label>
+        <label for="carousel-3" class="carousel-control prev control-2">‹</label>
+        <label for="carousel-2" class="carousel-control next control-2">›</label>
+        <label for="carousel-1" class="carousel-control prev control-3">‹</label>
+        <label for="carousel-5" class="carousel-control prev control-3">‹</label>
+        <label for="carousel-4" class="carousel-control prev control-4">‹</label>
+        <label for="carousel-3" class="carousel-control next control-4">›</label>
+        <label for="carousel-2" class="carousel-control prev control-5">‹</label>
+        <label for="carousel-1" class="carousel-control next control-5">›</label>
         <ol class="carousel-indicators">
             <li>
                 <label for="carousel-1" class="carousel-bullet">•</label>
@@ -34,6 +46,12 @@
             </li>
             <li>
                 <label for="carousel-3" class="carousel-bullet">•</label>
+            </li>
+            <li>
+                <label for="carousel-4" class="carousel-bullet">•</label>
+            </li>
+            <li>
+                <label for="carousel-5" class="carousel-bullet">•</label>
             </li>
         </ol>
     </div>
