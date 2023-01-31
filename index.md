@@ -9,7 +9,8 @@
     <div class="carousel-inner">
         <input class="carousel-open" type="radio" id="carousel-1" name="carousel" aria-hidden="true" hidden="" checked="checked">
         <div class="carousel-item">
-            <img src="http://fakeimg.pl/2000x800/0079D8/fff/?text=Without">
+            <img src="https://user-images.githubusercontent.com/69354578/215793348-e5b99961-e124-42e9-b845-f3f2d8ca5114.png">
+            <img src="">
         </div>
         <input class="carousel-open" type="radio" id="carousel-2" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
