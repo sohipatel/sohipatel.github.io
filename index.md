@@ -25,7 +25,7 @@
         </div>
         <input class="carousel-open" type="radio" id="carousel-5" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
-            <iframe src="https://www.youtube.com/embed/rzD94Mv5NsY" width="650" height="500"></iframe>
+            <iframe src="https://www.youtube.com/embed/rzD94Mv5NsY" width="650" height="490"></iframe>
         </div>
         <label for="carousel-4" class="carousel-control next control-3">‹</label>
         <label for="carousel-5" class="carousel-control prev control-1">‹</label>
