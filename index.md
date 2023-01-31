@@ -18,3 +18,7 @@ linked info cards
 ## 🏆 Awards and Press
 
 list w links, see okezue and elizabeth
+
+## 📮 Contact Me
+
+idfk
