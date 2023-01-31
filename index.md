@@ -50,8 +50,8 @@
 
 ## 🏆 Awards and Press
 
-list w links, see okezue and elizabeth
+list w links
 
 ## 📮 Contact Me
 
-idfk
+idfk what format
