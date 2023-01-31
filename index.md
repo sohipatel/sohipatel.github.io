@@ -14,7 +14,7 @@
         </div>
         <input class="carousel-open" type="radio" id="carousel-2" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
-            <img src="https://user-images.githubusercontent.com/69354578/215793591-d881ed4c-527c-4935-88a3-b54bd4643adf.png">
+            <img src="https://user-images.githubusercontent.com/69354578/215794709-d9cce31c-8760-41d0-a6ff-64c9ed4f193d.png">
         </div>
         <input class="carousel-open" type="radio" id="carousel-3" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
