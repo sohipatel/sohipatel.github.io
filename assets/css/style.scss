@@ -50,7 +50,7 @@ html, body {
 .carousel-item img {
     display: block;
     height: auto;
-    max-width: 100%;
+    max-width: 90%;
 }
 
 .carousel-control {
@@ -123,7 +123,7 @@ html, body {
 #carousel-1:checked ~ .control-1 ~ .carousel-indicators li:nth-child(1) .carousel-bullet,
 #carousel-2:checked ~ .control-2 ~ .carousel-indicators li:nth-child(2) .carousel-bullet,
 #carousel-3:checked ~ .control-3 ~ .carousel-indicators li:nth-child(3) .carousel-bullet {
-    color: #428bca;
+    color: #fe2082;
 }
 
 #title {
