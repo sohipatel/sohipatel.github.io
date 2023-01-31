@@ -67,10 +67,11 @@
 <p><a href="https://www.linkedin.com/company/the-dice-initiative" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215587287-e85fb3b5-ed86-4ada-8804-494315cdbf3b.png" height=25></a>         <strong>The DICE Initiative</strong> | Coordinated 35 service projects for local businesses and NPOs</p>
 
 ## 🏆 Awards and Press
-<p><a href="https://www.societyforscience.org/isef/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215844054-113151a0-f0df-421d-959a-f006241eb784.png" height=25></a>     <strong>Regeneron ISEF</strong> | <a href="https://www.societyforscience.org/press-release/2022-regeneron-isef-top-winners/" target="_blank" rel="noopener noreferrer">Best of Category in Materials Science</a></p>
-<p><a href="https://www.societyforscience.org/regeneron-sts/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215844323-9bea1059-9629-48f3-9c6d-1e2abb34b46b.png" height=25></a>     <strong>Regeneron STS</strong>  | <a href="https://www.societyforscience.org/press-release/300-teen-scientists-selected-as-regeneron-sts-2023-scholars/" target="_blank" rel="noopener noreferrer">Top 300 Scholar</a></p>
-<p><a href="https://www.epa.gov/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215844504-b1402656-efff-4f46-86af-4117b0784fb9.png" height=25></a>     <strong>US EPA</strong> | <a href="https://www.epa.gov/newsreleases/high-school-student-wins-epa-award-eco-friendly-foam-alternative" target="_blank" rel="noopener noreferrer">Patrick H. Hurd Sustainability Award</a></p>
-<p><a href="https://www.bizjournals.com/houston/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215845362-e870d9d5-2084-4f56-a176-a775fa6f8e22.png" height=25></a>     <strong>Houston Business Journal</strong> | <a href="https://www.bizjournals.com/houston/inno/stories/awards/2021/10/29/meet-houston-inno-under-25-awards-honorees.html" target="_blank" rel="noopener noreferrer">25 Under 25</a></p>
+<p>✦ <strong>Regeneron ISEF</strong> | <a href="https://www.societyforscience.org/press-release/2022-regeneron-isef-top-winners/" target="_blank" rel="noopener noreferrer">Best of Category in Materials Science</a></p>
+<p>✦ <strong>Regeneron STS</strong>  | <a href="https://www.societyforscience.org/press-release/300-teen-scientists-selected-as-regeneron-sts-2023-scholars/" target="_blank" rel="noopener noreferrer">Top 300 Scholar</a></p>
+<p>✦ <strong>US EPA</strong> | <a href="https://www.epa.gov/newsreleases/high-school-student-wins-epa-award-eco-friendly-foam-alternative" target="_blank" rel="noopener noreferrer">Patrick H. Hurd Sustainability Award</a></p>
+<p>✦ <strong>Houston Business Journal</strong> | <a href="https://www.bizjournals.com/houston/inno/stories/awards/2021/10/29/meet-houston-inno-under-25-awards-honorees.html" target="_blank" rel="noopener noreferrer">25 Under 25</a></p>
+
 ## 📮 Contact Me
 
 idfk what format
