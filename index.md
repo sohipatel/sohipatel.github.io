@@ -14,7 +14,7 @@
         </div>
         <input class="carousel-open" type="radio" id="carousel-2" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
-            <img src="http://fakeimg.pl/2000x800/DA5930/fff/?text=JavaScript">
+            <img src="https://user-images.githubusercontent.com/69354578/215793591-d881ed4c-527c-4935-88a3-b54bd4643adf.png">
         </div>
         <input class="carousel-open" type="radio" id="carousel-3" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
