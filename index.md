@@ -18,7 +18,7 @@
         </div>
         <input class="carousel-open" type="radio" id="carousel-3" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
-            <img src="http://fakeimg.pl/2000x800/F90/fff/?text=Carousel">
+            <img src="https://user-images.githubusercontent.com/69354578/215793760-ccb0b5ee-e647-44d4-adaf-fb2fa0c01421.png">
         </div>
         <label for="carousel-3" class="carousel-control prev control-1">‹</label>
         <label for="carousel-2" class="carousel-control next control-1">›</label>
