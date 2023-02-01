@@ -25,7 +25,7 @@
         </div>
         <input class="carousel-open" type="radio" id="carousel-5" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
-             <a href="https://youtu.be/rzD94Mv5NsY" target="_blank" rel="noopener noreferrer"><iframe src="https://www.youtube.com/embed/rzD94Mv5NsY" width="650" height="495"></iframe></a>
+             <a href="https://youtu.be/rzD94Mv5NsY" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/216154589-ba30f09f-72ef-4942-bfed-35aeb184758b.png" width="650" height="495"></a>
         </div>
         <label for="carousel-5" class="carousel-control prev control-1">‹</label>
         <label for="carousel-4" class="carousel-control next control-3">›</label>
