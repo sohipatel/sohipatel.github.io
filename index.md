@@ -70,7 +70,7 @@
 <p>✦ <strong>Regeneron ISEF</strong> | <a href="https://www.societyforscience.org/press-release/2022-regeneron-isef-top-winners/" target="_blank" rel="noopener noreferrer">Best of Category in Materials Science</a></p>
 <p>✦ <strong>Regeneron STS</strong>  | <a href="https://www.societyforscience.org/press-release/300-teen-scientists-selected-as-regeneron-sts-2023-scholars/" target="_blank" rel="noopener noreferrer">2023 Scholar</a></p>
 <p>✦ <strong>US EPA</strong> | <a href="https://www.epa.gov/newsreleases/high-school-student-wins-epa-award-eco-friendly-foam-alternative" target="_blank" rel="noopener noreferrer">Patrick H. Hurd Sustainability Award Recipient</a></p>
-<p>✦ <strong>US DoD JSHS</strong> | <a href="https://jshs.org/2022/04/25/2022-national-jshs-winners/" target="_blank" rel="noopener noreferrer">Best of Fair in Texas</a></p>
+<p>✦ <strong>US DoD JSHS</strong> | <a href="https://jshs.org/2022/04/25/2022-national-jshs-winners/" target="_blank" rel="noopener noreferrer">Best of Fair in Texas, 2nd Place at Nationals</a></p>
 <p>✦ <strong>Effective Altruism</strong> | <a href="https://www.atlasfellowship.org/" target="_blank" rel="noopener noreferrer">Atlas Fellowship Beneficiary</a></p>
 <p>✦ <strong>Houston Business Journal</strong> | <a href="https://www.bizjournals.com/houston/inno/stories/awards/2021/10/29/meet-houston-inno-under-25-awards-honorees.html" target="_blank" rel="noopener noreferrer">25 Under 25</a></p>
 
