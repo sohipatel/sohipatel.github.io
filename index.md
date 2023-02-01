@@ -56,7 +56,6 @@
         </ol>
     </div>
 </div>
-<br>
 
 ## 📈 Key Experiences
 
@@ -67,6 +66,7 @@
 <p><a href="https://www.linkedin.com/company/the-dice-initiative" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215587287-e85fb3b5-ed86-4ada-8804-494315cdbf3b.png" height=25></a>         <strong>The DICE Initiative</strong> | Coordinated 35 service projects for local businesses and NPOs</p>
 
 ## 🏆 Awards and Press
+
 <p>✦ <strong>Regeneron ISEF</strong> | <a href="https://www.societyforscience.org/press-release/2022-regeneron-isef-top-winners/" target="_blank" rel="noopener noreferrer">Best of Category in Materials Science</a></p>
 <p>✦ <strong>Regeneron STS</strong>  | <a href="https://www.societyforscience.org/press-release/300-teen-scientists-selected-as-regeneron-sts-2023-scholars/" target="_blank" rel="noopener noreferrer">2023 Scholar</a></p>
 <p>✦ <strong>US EPA</strong> | <a href="https://www.epa.gov/newsreleases/high-school-student-wins-epa-award-eco-friendly-foam-alternative" target="_blank" rel="noopener noreferrer">Patrick H. Hurd Sustainability Award Recipient</a></p>
