@@ -27,16 +27,16 @@
         <div class="carousel-item">
              <iframe src="https://www.youtube.com/embed/rzD94Mv5NsY" href="https://youtu.be/rzD94Mv5NsY" target="_blank" rel="noopener noreferrer" width="650" height="495"></iframe>
         </div>
-        <label for="carousel-4" class="carousel-control next control-3">‹</label>
         <label for="carousel-5" class="carousel-control prev control-1">‹</label>
-        <label for="carousel-2" class="carousel-control next control-1">›</label>
+        <label for="carousel-4" class="carousel-control next control-3">‹</label>
         <label for="carousel-3" class="carousel-control prev control-4">‹</label>
-        <label for="carousel-5" class="carousel-control next control-4">‹</label>
+        <label for="carousel-2" class="carousel-control next control-1">›</label>
         <label for="carousel-1" class="carousel-control prev control-2">‹</label>
-        <label for="carousel-3" class="carousel-control next control-2">›</label>
+        <label for="carousel-5" class="carousel-control next control-4">‹</label>
         <label for="carousel-4" class="carousel-control prev control-5">‹</label>
-        <label for="carousel-1" class="carousel-control next control-5">›</label>
+        <label for="carousel-3" class="carousel-control next control-2">›</label>
         <label for="carousel-2" class="carousel-control prev control-3">‹</label>
+        <label for="carousel-1" class="carousel-control next control-5">›</label>
         <ol class="carousel-indicators">
             <li>
                 <label for="carousel-1" class="carousel-bullet">•</label>
