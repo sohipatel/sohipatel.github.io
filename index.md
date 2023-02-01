@@ -79,5 +79,3 @@
 ## 📮 Contact Me
 
 idfk what format
-
-<iframe src="https://www.youtube.com/embed/rzD94Mv5NsY" width="650" height="495"></iframe>
