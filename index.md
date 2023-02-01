@@ -76,6 +76,6 @@
 <p>✦ <strong>Defense TechConnect</strong> | <a href="https://events.techconnect.org/DTCFall/" target="_blank" rel="noopener noreferrer">Nanotechnology Exhibitor</a></p>
 <p>✦ <strong>Houston Business Journal</strong> | <a href="https://www.bizjournals.com/houston/inno/stories/awards/2021/10/29/meet-houston-inno-under-25-awards-honorees.html" target="_blank" rel="noopener noreferrer">25 Under 25</a></p>
 
-## 📮 Contact Me
+## 📮 Connect With Me
 
-idfk what format
+<center><a href="https://www.twitter.com/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215394588-38c0cdb1-bc66-4bdc-9137-60c82627be9c.png" height=100></a><a href="https://www.hmns.org/planetarium/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215586946-eccf09e6-1eef-47c1-a52e-4087f8c92937.png" height=100></a><a href="https://www.hmns.org/planetarium/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215586946-eccf09e6-1eef-47c1-a52e-4087f8c92937.png" height=100></a></center>
