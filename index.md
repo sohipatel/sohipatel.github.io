@@ -85,7 +85,7 @@
 <div class="grid-container">
   <main class="grid-item main">
     <div class="items">
-      <div class="item <img src="https://user-images.githubusercontent.com/69354578/215587287-e85fb3b5-ed86-4ada-8804-494315cdbf3b.png">"></div>
+      <div class="item item2"></div>
       <div class="item item2"></div>
       <div class="item item3"></div>
       <div class="item item4"></div>
