@@ -99,6 +99,7 @@
       <div class="item item11"></div>
       <div class="item item12"></div>
     </div>
+  </main>
 </div>
 
 ## 📮 Connect With Me
