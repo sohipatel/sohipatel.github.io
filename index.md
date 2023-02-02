@@ -74,7 +74,6 @@
 <p>✦ <strong>National Junior Science and Humanities Symposium 2022</strong> | <a href="https://jshs.org/2022/04/25/2022-national-jshs-winners/" target="_blank" rel="noopener noreferrer">2nd Place in Chemistry</a></p>
 <p>✦ <strong>Regeneron International Science and Engineering Fair 2021</strong> | <a href="https://www.societyforscience.org/press-release/2021-regeneron-isef-grand-awards/" target="_blank" rel="noopener noreferrer">4th Place in Materials Science</a></p>
 <p>✦ <strong>South by Southwest</strong> | <a href="https://www.sxsw.com/conference/2050-track/" target="_blank" rel="noopener noreferrer">Featured "Technology in 2050" Panelist</a></p>
-<p>✦ <strong>Effective Altruism</strong> | <a href="https://www.atlasfellowship.org/" target="_blank" rel="noopener noreferrer">Atlas Fellowship Fund Beneficiary</a></p>
 <p>✦ <strong>Defense TechConnect</strong> | <a href="https://events.techconnect.org/DTCFall/" target="_blank" rel="noopener noreferrer">Nanotechnology and Advanced Materials Exhibitor</a></p>
 <p>✦ <strong>Houston Business Journal</strong> | <a href="https://www.bizjournals.com/houston/inno/stories/awards/2021/10/29/meet-houston-inno-under-25-awards-honorees.html" target="_blank" rel="noopener noreferrer">Inno 25 Under 25</a></p>
 
