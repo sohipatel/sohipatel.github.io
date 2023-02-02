@@ -174,27 +174,27 @@ html, body {
 
   .grid-item {
     color: #fff;
-    background: skyblue;
+    background: #f2f2f2;
     padding: 3.5em 1em;
     font-size: 1em;
     font-weight: 700;
   }
   
   .header {
-    background-color: darken(skyblue, 60%);
+    background-color: darken(#f2f2f2, 60%);
     grid-area: header;
     padding: 1em;
   }
   
   .title {
     color: #555;
-    background-color: lighten(skyblue, 25%);
+    background-color: lighten(#f2f2f2, 25%);
     grid-area: title;
   }
 
   .main {
     color: lighten(#555, 25%);
-    background-color: lighten(skyblue, 60%);
+    background-color: lighten(#f2f2f2, 60%);
     grid-area: main;
     padding: 0;
     overflow-x: scroll;
@@ -202,7 +202,7 @@ html, body {
   }
   
   .footer {
-    background-color: darken(skyblue, 10%);
+    background-color: darken(#f2f2f2, 10%);
     grid-area: footer;
     padding: 0.6em;
   }
@@ -229,7 +229,7 @@ html, body {
 
   .item {
     display: inline-block;
-    background: skyblue;
+    background: #f2f2f2;
     min-height: 250px;
     min-width: 400px;
     margin: 2em 1em;
