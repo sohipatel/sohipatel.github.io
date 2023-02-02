@@ -78,8 +78,7 @@
 <p>✦ <strong>South by Southwest</strong> | <a href="https://www.sxsw.com/conference/2050-track/" target="_blank" rel="noopener noreferrer">Featured "Technology in 2050" Panelist</a></p>
 <p>✦ <strong>Effective Altruism</strong>  | <a href="https://www.atlasfellowship.org/" target="_blank" rel="noopener noreferrer">Atlas Fellowship Fund Beneficiary</a></p>
 <p>✦ <strong>Defense TechConnect</strong> | <a href="https://events.techconnect.org/DTCFall/" target="_blank" rel="noopener noreferrer">Nanotechnology and Advanced Materials Exhibitor</a></p>
-<p>✦ <strong>Houston Business Journal</strong> | <a href="https://www.bizjournals.com/houston/inno/stories/awards/2021/10/29/meet-houston-inno-under-25-awards-honorees.html" target="_blank" rel="noopener noreferrer">Inno 25 Under 25</a>
-   </p>
+<p>✦ <strong>Houston Business Journal</strong> | <a href="https://www.bizjournals.com/houston/inno/stories/awards/2021/10/29/meet-houston-inno-under-25-awards-honorees.html" target="_blank" rel="noopener noreferrer">Inno 25 Under 25</a></p>
   
 ## 📚 Top Reads
 
@@ -101,6 +100,7 @@
     </div>
   </main>
 </div>
+<br>
 
 ## 📮 Connect With Me
 
