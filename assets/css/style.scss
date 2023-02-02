@@ -243,24 +243,3 @@ $white: #efefef;
     }
   }
 }
-
-
-a {
-  display: block;
-  color: lighten(skyblue, 15%);
-  text-decoration: underline;
-  margin: 1em auto;
-  &:hover {
-    cursor: pointer;
-  }
-}
-
-p {
-  text-align: left;
-  text-indent: 20px;
-  font-weight: 100;
-}
-
-i {
-  color: skyblue;
-}
