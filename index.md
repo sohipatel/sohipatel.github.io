@@ -80,6 +80,26 @@
 <p>✦ <strong>Defense TechConnect</strong> | <a href="https://events.techconnect.org/DTCFall/" target="_blank" rel="noopener noreferrer">Nanotechnology and Advanced Materials Exhibitor</a></p>
 <p>✦ <strong>Houston Business Journal</strong> | <a href="https://www.bizjournals.com/houston/inno/stories/awards/2021/10/29/meet-houston-inno-under-25-awards-honorees.html" target="_blank" rel="noopener noreferrer">Inno 25 Under 25</a>
    </p>
+  
+## 📚 Favorite Reads
+
+<div class="grid-container">
+  <main class="grid-item main">
+    <div class="items">
+      <div class="item item1"></div>
+      <div class="item item2"></div>
+      <div class="item item3"></div>
+      <div class="item item4"></div>
+      <div class="item item5"></div>
+      <div class="item item6"></div>
+      <div class="item item7"></div>
+      <div class="item item8"></div>
+      <div class="item item9"></div>
+      <div class="item item10"></div>
+      <div class="item item11"></div>
+      <div class="item item12"></div>
+    </div>
+</div>
 
 ## 📮 Connect With Me
 
