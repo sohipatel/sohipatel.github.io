@@ -143,10 +143,6 @@ html, body {
     text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.33), -1px 0px 2px rgba(255, 255, 255, 0);
 }
 
-$gray: #555;
-$yellow: #f2e968;
-$white: #efefef;
-
 @import url(https://fonts.googleapis.com/css?family=Rubik);
 
 .grid-container {
@@ -191,13 +187,13 @@ $white: #efefef;
   }
   
   .title {
-    color: $gray;
+    color: #555;
     background-color: lighten(skyblue, 25%);
     grid-area: title;
   }
 
   .main {
-    color: lighten($gray, 25%);
+    color: lighten(#555, 25%);
     background-color: lighten(skyblue, 60%);
     grid-area: main;
     padding: 0;
