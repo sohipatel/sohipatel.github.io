@@ -102,34 +102,6 @@
   </main>
 </div>
 
-const slider = document.querySelector('.items');
-let isDown = false;
-let startX;
-let scrollLeft;
-
-slider.addEventListener('mousedown', (e) => {
-  isDown = true;
-  slider.classList.add('active');
-  startX = e.pageX - slider.offsetLeft;
-  scrollLeft = slider.scrollLeft;
-});
-slider.addEventListener('mouseleave', () => {
-  isDown = false;
-  slider.classList.remove('active');
-});
-slider.addEventListener('mouseup', () => {
-  isDown = false;
-  slider.classList.remove('active');
-});
-slider.addEventListener('mousemove', (e) => {
-  if(!isDown) return;
-  e.preventDefault();
-  const x = e.pageX - slider.offsetLeft;
-  const walk = (x - startX) * 3; //scroll-fast
-  slider.scrollLeft = scrollLeft - walk;
-  console.log(walk);
-});
-
 ## 📮 Connect With Me
 
 <center><a href="https://www.twitter.com" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215394588-38c0cdb1-bc66-4bdc-9137-60c82627be9c.png" width="60" height="60" align="center"/></a><a href="mailto:tapote11@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215394904-8b7ba959-9a09-4e8d-805c-60e15dadc2bb.png" width="60" height="60" align="center"/></a><a href="https://linkedin.com/in/sohipatel" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215395215-69a65eab-d35e-4986-a3fc-5a507bcf282c.png" width="60" height="60" align="center"/></a></center>
