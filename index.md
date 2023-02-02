@@ -100,7 +100,6 @@
     </div>
   </main>
 </div>
-<br>
 
 ## 📮 Connect With Me
 
