@@ -81,7 +81,7 @@
 <p>✦ <strong>Houston Business Journal</strong> | <a href="https://www.bizjournals.com/houston/inno/stories/awards/2021/10/29/meet-houston-inno-under-25-awards-honorees.html" target="_blank" rel="noopener noreferrer">Inno 25 Under 25</a>
    </p>
   
-## 📚 Favorite Reads
+## 📚 Top Reads
 
 <div class="grid-container">
   <main class="grid-item main">
