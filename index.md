@@ -1,7 +1,7 @@
 ## 👋 Hello!
 
 <center><img src="https://user-images.githubusercontent.com/69354578/215614058-5d292894-3746-4400-9361-dd739f571cf7.gif" height=300></center>
-<p>I'm Sohi, a student at the Academy of Science and Technology interested in microrobotics and smart materials. I'm currently building Gravel, a high tech startup bringing programmable matter to the world. In my free time, I enjoy street skating, reading Modernist poetry, and x 😊</p>
+<p>I'm Sohi, a student at the Academy of Science and Technology interested in microrobotics and smart materials. I'm currently building <a href="https://www.time.is/" target="_blank" rel="noopener noreferrer">Gravel</a>, a high tech startup bringing programmable matter to the world. In my free time, I enjoy street skating, reading Modernist poetry, and x 😊</p>
 
 ## 🔧 Featured Projects
 
