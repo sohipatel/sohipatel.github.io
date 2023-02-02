@@ -56,8 +56,7 @@
         </ol>
     </div>
 </div>
-<p>  
-</p>
+<br>
 
 ## 📈 Key Experiences
 
