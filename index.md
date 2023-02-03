@@ -1,7 +1,7 @@
 ## 👋 Hello!
 
 <center><img src="https://user-images.githubusercontent.com/69354578/215614058-5d292894-3746-4400-9361-dd739f571cf7.gif" height=300></center>
-<p>I'm Sohi, a student at the Academy of Science and Technology interested in microrobotics and smart materials. I'm currently building <strong><a href="https://www.time.is/" target="_blank" rel="noopener noreferrer">Gravel</a></strong>, a high tech startup developing programmable matter. In my free time, I enjoy street skating, reading Modernist poetry, and gardening herbs 😊
+<p>I'm Sohi, a student at the Academy of Science and Technology interested in microrobotics and smart materials. I'm currently building <strong><a href="https://www.time.is/" target="_blank" rel="noopener noreferrer">Gravel</a></strong>, a high tech startup developing programmable matter. In my free time, I enjoy street skating, reading Modernist poetry, and gardening herbs 😊</p>
 <br>
 
 ## 🔧 Featured Projects
@@ -65,7 +65,7 @@
 <p><a href="https://www.nasa.gov/centers/johnson/home/index.html" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215586736-3b97dff7-baae-453a-a149-b1b80f730330.png" height=25></a>      <strong>NASA Johnson Space Center</strong> | Built a VR microgravity simulator for Psyche and OSIRIS-APEX</p>
 <p><a href="https://www.hmns.org/planetarium/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215586946-eccf09e6-1eef-47c1-a52e-4087f8c92937.png" height=25></a>      <strong>Houston Museum of Natural Science</strong> | Created 2 best-selling planetarium shows</p>
 <p><a href="https://techtogether.io/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215587123-aee87a9d-c5a2-4756-8ca3-f5f4bde54007.png" height=25></a>         <strong>TechTogether</strong> | Raised $14k+ by recruiting sponsors such as Amazon, Verizon, and Microsoft</p>
-<p><a href="https://www.linkedin.com/company/the-dice-initiative" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215587287-e85fb3b5-ed86-4ada-8804-494315cdbf3b.png" height=25></a>         <strong>The DICE Initiative</strong> | Coordinated 35 service projects for local businesses and NPOs
+<p><a href="https://www.linkedin.com/company/the-dice-initiative" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215587287-e85fb3b5-ed86-4ada-8804-494315cdbf3b.png" height=25></a>         <strong>The DICE Initiative</strong> | Coordinated 35 service projects for local businesses and NPOs</p>
 <br>
 
 ## 🏆 Awards and Press
@@ -78,7 +78,7 @@
 <p>✦ <strong>South by Southwest</strong> | <a href="https://www.sxsw.com/conference/2050-track/" target="_blank" rel="noopener noreferrer">Featured "Technology in 2050" Panelist</a></p>
 <p>✦ <strong>Effective Altruism</strong>  | <a href="https://www.atlasfellowship.org/" target="_blank" rel="noopener noreferrer">Atlas Fellowship Fund Beneficiary</a></p>
 <p>✦ <strong>Defense TechConnect</strong> | <a href="https://events.techconnect.org/DTCFall/" target="_blank" rel="noopener noreferrer">Nanotechnology and Advanced Materials Exhibitor</a></p>
-<p>✦ <strong>Houston Business Journal</strong> | <a href="https://www.bizjournals.com/houston/inno/stories/awards/2021/10/29/meet-houston-inno-under-25-awards-honorees.html" target="_blank" rel="noopener noreferrer">Inno 25 Under 25</a>
+<p>✦ <strong>Houston Business Journal</strong> | <a href="https://www.bizjournals.com/houston/inno/stories/awards/2021/10/29/meet-houston-inno-under-25-awards-honorees.html" target="_blank" rel="noopener noreferrer">Inno 25 Under 25</a></p>
 <br>
 
 ## 📚 Top Reads
