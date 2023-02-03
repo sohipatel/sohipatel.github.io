@@ -15,7 +15,23 @@ img {
   -moz-box-shadow: 0 0 0px #ebebeb;
   -o-box-shadow: 0 0 0px #ebebeb;
   -ms-box-shadow: 0 0 0px #ebebeb;
+  
 }
+  
+<html>
+
+<head>
+    <style type="text/css">
+      .br {
+          display: block;
+          margin-bottom: 0em;
+      }
+          
+      .brsmall {
+          display: block;
+          margin-bottom: -.2em;
+      }
+    </style>
 
 html, body {
     margin: 0px;
