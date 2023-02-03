@@ -1,7 +1,7 @@
 ## 👋 Hello!
 
 <center><img src="https://user-images.githubusercontent.com/69354578/215614058-5d292894-3746-4400-9361-dd739f571cf7.gif" height=300></center>
-<p>I'm Sohi, a student at the Academy of Science and Technology interested in microrobotics and smart materials. I'm currently building <a href="https://www.time.is/" target="_blank" rel="noopener noreferrer">Gravel</a>, a high tech startup developing programmable matter. In my free time, I enjoy street skating, reading Modernist poetry, and gardening herbs 😊</p>
+<p>I'm Sohi, a student at the Academy of Science and Technology interested in microrobotics and smart materials. I'm currently building <strong><a href="https://www.time.is/" target="_blank" rel="noopener noreferrer">Gravel</a></strong>, a high tech startup developing programmable matter. In my free time, I enjoy street skating, reading Modernist poetry, and gardening herbs 😊</p>
 
 ## 🔧 Featured Projects
 
@@ -85,7 +85,10 @@
 <div class="grid-container">
   <main class="grid-item main">
     <div class="items">
-      <div class="item item1"></div>
+      <id="item1" name="item">
+      <div class="item item1">
+        <img src="https://user-images.githubusercontent.com/69354578/215794709-d9cce31c-8760-41d0-a6ff-64c9ed4f193d.png">
+      </div>
       <div class="item item2"></div>
       <div class="item item3"></div>
       <div class="item item4"></div>
