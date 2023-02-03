@@ -100,13 +100,27 @@
       <div class="item item5">
         <img src="https://user-images.githubusercontent.com/69354578/215794709-d9cce31c-8760-41d0-a6ff-64c9ed4f193d.png">
       </div>
-      <div class="item item6"></div>
-      <div class="item item7"></div>
-      <div class="item item8"></div>
-      <div class="item item9"></div>
-      <div class="item item10"></div>
-      <div class="item item11"></div>
-      <div class="item item12"></div>
+      <div class="item item6">
+        <img src="https://user-images.githubusercontent.com/69354578/215794709-d9cce31c-8760-41d0-a6ff-64c9ed4f193d.png">
+      </div>
+      <div class="item item7">
+        <img src="https://user-images.githubusercontent.com/69354578/215794709-d9cce31c-8760-41d0-a6ff-64c9ed4f193d.png">
+      </div>
+      <div class="item item8">
+        <img src="https://user-images.githubusercontent.com/69354578/215794709-d9cce31c-8760-41d0-a6ff-64c9ed4f193d.png">
+      </div>
+      <div class="item item9">
+        <img src="https://user-images.githubusercontent.com/69354578/215794709-d9cce31c-8760-41d0-a6ff-64c9ed4f193d.png">
+      </div>
+      <div class="item item10">
+        <img src="https://user-images.githubusercontent.com/69354578/215794709-d9cce31c-8760-41d0-a6ff-64c9ed4f193d.png">
+      </div>
+      <div class="item item11">
+        <img src="https://user-images.githubusercontent.com/69354578/215794709-d9cce31c-8760-41d0-a6ff-64c9ed4f193d.png">
+      </div>
+      <div class="item item12">
+        <img src="https://user-images.githubusercontent.com/69354578/215794709-d9cce31c-8760-41d0-a6ff-64c9ed4f193d.png">
+      </div>
     </div>
   </main>
 </div>
