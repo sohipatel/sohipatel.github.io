@@ -57,7 +57,7 @@
         </ol>
     </div>
 </div>
-<div class="spacer"></div>
+<br>
 
 ## 📈 Key Experiences
 
@@ -154,7 +154,7 @@
    console.log(walk);
    });
 </script>
-<div class="spacer"></div>
+<br>
 
 ## 📮 Connect With Me
 
