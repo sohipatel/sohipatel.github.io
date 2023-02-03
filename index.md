@@ -101,10 +101,10 @@
         <img src="https://user-images.githubusercontent.com/69354578/216639260-927fc6c9-a684-4ce1-867e-ad6b0d6063e5.png" height=500>
       </div>
       <div class="item item6">
-        <img src="https://user-images.githubusercontent.com/69354578/216645215-e25e2982-cf3e-4090-9702-43c26efdd667.png">
+        <img src="https://user-images.githubusercontent.com/69354578/216645215-e25e2982-cf3e-4090-9702-43c26efdd667.png" height=500>
       </div>
       <div class="item item7">
-        <img src="https://user-images.githubusercontent.com/69354578/216645702-c5070a81-b8fa-4c03-84f6-b0884b81f8e7.png">
+        <img src="https://user-images.githubusercontent.com/69354578/216645702-c5070a81-b8fa-4c03-84f6-b0884b81f8e7.png" height=500>
       </div>
       <div class="item item8">
         <img src="h">
