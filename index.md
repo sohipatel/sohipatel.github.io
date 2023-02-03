@@ -57,7 +57,7 @@
         </ol>
     </div>
 </div>
-<br>
+<p><span class="brsmall"></span></p>
 
 ## 📈 Key Experiences
 
@@ -154,7 +154,7 @@
    console.log(walk);
    });
 </script>
-<br>
+<p><span class="brsmall"></span></p>
 
 ## 📮 Connect With Me
 
