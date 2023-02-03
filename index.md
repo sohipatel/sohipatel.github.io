@@ -1,7 +1,7 @@
 ## 👋 Hello!
 
 <center><img src="https://user-images.githubusercontent.com/69354578/215614058-5d292894-3746-4400-9361-dd739f571cf7.gif" height=300></center>
-<p>I'm Sohi, a student at the Academy of Science and Technology interested in microrobotics and smart materials. I'm currently building <strong><a href="https://www.time.is/" target="_blank" rel="noopener noreferrer">Gravel</a></strong>, a high tech startup developing programmable matter. In my free time, I enjoy street skating, reading Modernist poetry, and gardening herbs 😊</p>
+<font size="+1"><p>I'm Sohi, a student at the Academy of Science and Technology interested in microrobotics and smart materials. I'm currently building <strong><a href="https://www.time.is/" target="_blank" rel="noopener noreferrer">Gravel</a></strong>, a high tech startup developing programmable matter. In my free time, I enjoy street skating, reading Modernist poetry, and gardening herbs 😊</p></font>
 <br>
 
 ## 🔧 Featured Projects
@@ -61,16 +61,16 @@
 
 ## 📈 Key Experiences
 
-<p><a href="https://www.ll.mit.edu/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215586597-aec7a3e2-8bd2-4f45-8096-eacaa5976ec6.png" height=25></a>          <strong>MIT Lincoln Laboratory</strong> | Federally funded to research radar and defense technology</p>
+<font size="+1"><p><a href="https://www.ll.mit.edu/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215586597-aec7a3e2-8bd2-4f45-8096-eacaa5976ec6.png" height=25></a>          <strong>MIT Lincoln Laboratory</strong> | Federally funded to research radar and defense technology</p>
 <p><a href="https://www.nasa.gov/centers/johnson/home/index.html" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215586736-3b97dff7-baae-453a-a149-b1b80f730330.png" height=25></a>      <strong>NASA Johnson Space Center</strong> | Built a VR microgravity simulator for Psyche and OSIRIS-APEX</p>
 <p><a href="https://www.hmns.org/planetarium/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215586946-eccf09e6-1eef-47c1-a52e-4087f8c92937.png" height=25></a>      <strong>Houston Museum of Natural Science</strong> | Created 2 best-selling planetarium shows</p>
 <p><a href="https://techtogether.io/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215587123-aee87a9d-c5a2-4756-8ca3-f5f4bde54007.png" height=25></a>         <strong>TechTogether</strong> | Raised $14k+ by recruiting sponsors such as Amazon, Verizon, and Microsoft</p>
-<p><a href="https://www.linkedin.com/company/the-dice-initiative" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215587287-e85fb3b5-ed86-4ada-8804-494315cdbf3b.png" height=25></a>         <strong>The DICE Initiative</strong> | Coordinated 35 service projects for local businesses and NPOs</p>
+<p><a href="https://www.linkedin.com/company/the-dice-initiative" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215587287-e85fb3b5-ed86-4ada-8804-494315cdbf3b.png" height=25></a>         <strong>The DICE Initiative</strong> | Coordinated 35 service projects for local businesses and NPOs</p></font>
 <br>
 
 ## 🏆 Awards and Press
 
-<p>✦ <strong>Regeneron Science Talent Search</strong>  | <a href="https://www.societyforscience.org/press-release/300-teen-scientists-selected-as-regeneron-sts-2023-scholars/" target="_blank" rel="noopener noreferrer">2023 Scholar</a></p>
+<font size="+1"><p>✦ <strong>Regeneron Science Talent Search</strong>  | <a href="https://www.societyforscience.org/press-release/300-teen-scientists-selected-as-regeneron-sts-2023-scholars/" target="_blank" rel="noopener noreferrer">2023 Scholar</a></p>
 <p>✦ <strong>Regeneron International Science and Engineering Fair</strong> | <a href="https://www.societyforscience.org/press-release/2022-regeneron-isef-top-winners/" target="_blank" rel="noopener noreferrer">1st Place in Materials Science in 2022</a></p>
 <p>✦ <strong>US Environmental Protection Agency</strong> | <a href="https://www.epa.gov/newsreleases/high-school-student-wins-epa-award-eco-friendly-foam-alternative" target="_blank" rel="noopener noreferrer">Patrick H. Hurd Sustainability Award Recipient</a></p>
 <p>✦ <strong>National Junior Science and Humanities Symposium</strong> | <a href="https://jshs.org/2022/04/25/2022-national-jshs-winners/" target="_blank" rel="noopener noreferrer">2nd Place in Chemistry</a></p>
@@ -78,7 +78,7 @@
 <p>✦ <strong>South by Southwest</strong> | <a href="https://www.sxsw.com/conference/2050-track/" target="_blank" rel="noopener noreferrer">Featured "Technology in 2050" Panelist</a></p>
 <p>✦ <strong>Effective Altruism</strong>  | <a href="https://www.atlasfellowship.org/" target="_blank" rel="noopener noreferrer">Atlas Fellowship Fund Beneficiary</a></p>
 <p>✦ <strong>Defense TechConnect</strong> | <a href="https://events.techconnect.org/DTCFall/" target="_blank" rel="noopener noreferrer">Nanotechnology and Advanced Materials Exhibitor</a></p>
-<p>✦ <strong>Houston Business Journal</strong> | <a href="https://www.bizjournals.com/houston/inno/stories/awards/2021/10/29/meet-houston-inno-under-25-awards-honorees.html" target="_blank" rel="noopener noreferrer">Inno 25 Under 25</a></p>
+<p>✦ <strong>Houston Business Journal</strong> | <a href="https://www.bizjournals.com/houston/inno/stories/awards/2021/10/29/meet-houston-inno-under-25-awards-honorees.html" target="_blank" rel="noopener noreferrer">Inno 25 Under 25</a></p></font>
 <br>
 
 ## 📚 Top Reads
@@ -159,4 +159,4 @@
 ## 📮 Connect With Me
 
 <center><a href="https://www.twitter.com" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215394588-38c0cdb1-bc66-4bdc-9137-60c82627be9c.png" width="60" height="60" align="center"/></a><a href="mailto:tapote11@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215394904-8b7ba959-9a09-4e8d-805c-60e15dadc2bb.png" width="60" height="60" align="center"/></a><a href="https://linkedin.com/in/sohipatel" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215395215-69a65eab-d35e-4986-a3fc-5a507bcf282c.png" width="60" height="60" align="center"/></a></center>
-<center><p><em>Feel free to reach out and thanks for stopping by!</em></p></center>
+<font size="+1"><center><p><em>Feel free to reach out and thanks for stopping by!</em></p></center></font>
