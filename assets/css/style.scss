@@ -229,11 +229,11 @@ html, body {
     transform: scale(1);
   }
 
-  .item {
+  .item1 {
     display: inline-block;
-    background: #f2f2f2;
-    min-height: 250px;
-    min-width: 400px;
+    background: <img src="https://user-images.githubusercontent.com/69354578/215587123-aee87a9d-c5a2-4756-8ca3-f5f4bde54007.png">;
+    min-height: 300px;
+    min-width: 150px;
     margin: 2em 1em;
     @media screen and (max-width: 500px) {
       min-height: 200px;
