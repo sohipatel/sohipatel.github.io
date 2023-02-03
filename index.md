@@ -61,20 +61,20 @@
 
 ## 📈 Key Experiences
 
-<font size="+1"><p><a href="https://www.ll.mit.edu/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215586597-aec7a3e2-8bd2-4f45-8096-eacaa5976ec6.png" height=25></a>          <strong>MIT Lincoln Laboratory</strong> | Federally funded to research radar and defense technology</p>
-<p><a href="https://www.nasa.gov/centers/johnson/home/index.html" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215586736-3b97dff7-baae-453a-a149-b1b80f730330.png" height=25></a>      <strong>NASA Johnson Space Center</strong> | Built a VR microgravity simulator for Psyche and OSIRIS-APEX</p>
+<font size="+1"><p><a href="https://www.ll.mit.edu/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215586597-aec7a3e2-8bd2-4f45-8096-eacaa5976ec6.png" height=25></a>          <strong>MIT Lincoln Laboratory</strong> | Federally funded to research radar and defense tech</p>
+<p><a href="https://www.nasa.gov/centers/johnson/home/index.html" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215586736-3b97dff7-baae-453a-a149-b1b80f730330.png" height=25></a>      <strong>NASA Johnson Space Center</strong> | Built a VR microgravity simulator for future missions</p>
 <p><a href="https://www.hmns.org/planetarium/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215586946-eccf09e6-1eef-47c1-a52e-4087f8c92937.png" height=25></a>      <strong>Houston Museum of Natural Science</strong> | Created 2 best-selling planetarium shows</p>
-<p><a href="https://techtogether.io/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215587123-aee87a9d-c5a2-4756-8ca3-f5f4bde54007.png" height=25></a>         <strong>TechTogether</strong> | Raised $14k+ by recruiting sponsors such as Amazon, Verizon, and Microsoft</p>
+<p><a href="https://techtogether.io/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215587123-aee87a9d-c5a2-4756-8ca3-f5f4bde54007.png" height=25></a>         <strong>TechTogether</strong> | Raised $14k+ by recruiting sponsors like Amazon, Verizon, and Microsoft</p>
 <p><a href="https://www.linkedin.com/company/the-dice-initiative" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215587287-e85fb3b5-ed86-4ada-8804-494315cdbf3b.png" height=25></a>         <strong>The DICE Initiative</strong> | Coordinated 35 service projects for local businesses and NPOs</p></font>
 <br>
 
 ## 🏆 Awards and Press
 
 <font size="+1"><p>✦ <strong>Regeneron Science Talent Search</strong>  | <a href="https://www.societyforscience.org/press-release/300-teen-scientists-selected-as-regeneron-sts-2023-scholars/" target="_blank" rel="noopener noreferrer">2023 Scholar</a></p>
-<p>✦ <strong>Regeneron International Science and Engineering Fair</strong> | <a href="https://www.societyforscience.org/press-release/2022-regeneron-isef-top-winners/" target="_blank" rel="noopener noreferrer">1st Place in Materials Science in 2022</a></p>
-<p>✦ <strong>US Environmental Protection Agency</strong> | <a href="https://www.epa.gov/newsreleases/high-school-student-wins-epa-award-eco-friendly-foam-alternative" target="_blank" rel="noopener noreferrer">Patrick H. Hurd Sustainability Award Recipient</a></p>
-<p>✦ <strong>National Junior Science and Humanities Symposium</strong> | <a href="https://jshs.org/2022/04/25/2022-national-jshs-winners/" target="_blank" rel="noopener noreferrer">2nd Place in Chemistry</a></p>
-<p>✦ <strong>Regeneron International Science and Engineering Fair</strong> | <a href="https://www.societyforscience.org/press-release/2021-regeneron-isef-grand-awards/" target="_blank" rel="noopener noreferrer">4th Place in Materials Science in 2021</a></p>
+<p>✦ <strong>Regeneron International Science and Engineering Fair</strong> | <a href="https://www.societyforscience.org/press-release/2022-regeneron-isef-top-winners/" target="_blank" rel="noopener noreferrer">1st in Materials Science</a></p>
+<p>✦ <strong>US Environmental Protection Agency</strong> | <a href="https://www.epa.gov/newsreleases/high-school-student-wins-epa-award-eco-friendly-foam-alternative" target="_blank" rel="noopener noreferrer">Patrick Hurd Sustainability Awardee </a></p>
+<p>✦ <strong>National Junior Science and Humanities Symposium</strong> | <a href="https://jshs.org/2022/04/25/2022-national-jshs-winners/" target="_blank" rel="noopener noreferrer">2nd in Chemistry</a></p>
+<p>✦ <strong>Regeneron International Science and Engineering Fair</strong> | <a href="https://www.societyforscience.org/press-release/2021-regeneron-isef-grand-awards/" target="_blank" rel="noopener noreferrer">4th in Materials Science</a></p>
 <p>✦ <strong>South by Southwest</strong> | <a href="https://www.sxsw.com/conference/2050-track/" target="_blank" rel="noopener noreferrer">Featured "Technology in 2050" Panelist</a></p>
 <p>✦ <strong>Effective Altruism</strong>  | <a href="https://www.atlasfellowship.org/" target="_blank" rel="noopener noreferrer">Atlas Fellowship Fund Beneficiary</a></p>
 <p>✦ <strong>Defense TechConnect</strong> | <a href="https://events.techconnect.org/DTCFall/" target="_blank" rel="noopener noreferrer">Nanotechnology and Advanced Materials Exhibitor</a></p>
