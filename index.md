@@ -153,7 +153,6 @@
    console.log(walk);
    });
 </script>
-<br>
 
 ## 📮 Connect With Me
 
