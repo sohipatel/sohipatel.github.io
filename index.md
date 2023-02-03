@@ -86,40 +86,40 @@
   <main class="grid-item main">
     <div class="items">
       <div class="item item1">
-        <img src="https://user-images.githubusercontent.com/69354578/216638370-51a11ac9-6fb3-4fc1-8681-441a5d210a17.png" height=500>
+        <img src="https://user-images.githubusercontent.com/69354578/216638370-51a11ac9-6fb3-4fc1-8681-441a5d210a17.png" height=300>
       </div>
       <div class="item item2">
-        <img src="https://user-images.githubusercontent.com/69354578/216639552-549ffc1f-8b70-4f2b-826e-f6c97e0744cc.png" height=500>
+        <img src="https://user-images.githubusercontent.com/69354578/216639552-549ffc1f-8b70-4f2b-826e-f6c97e0744cc.png" height=300>
       </div>
       <div class="item item3">
-        <img src="https://user-images.githubusercontent.com/69354578/216638063-2dbf0f8a-987a-4cd7-9b10-d4ac471a4b7f.png" height=500>
+        <img src="https://user-images.githubusercontent.com/69354578/216638063-2dbf0f8a-987a-4cd7-9b10-d4ac471a4b7f.png" height=300>
       </div>
       <div class="item item4">
-        <img src="https://user-images.githubusercontent.com/69354578/216650973-0b356b32-4151-4fbf-9d87-0b5d473981c3.png" height=500>
+        <img src="https://user-images.githubusercontent.com/69354578/216650973-0b356b32-4151-4fbf-9d87-0b5d473981c3.png" height=300>
       </div>
       <div class="item item5">
-        <img src="https://user-images.githubusercontent.com/69354578/216639260-927fc6c9-a684-4ce1-867e-ad6b0d6063e5.png" height=500>
+        <img src="https://user-images.githubusercontent.com/69354578/216639260-927fc6c9-a684-4ce1-867e-ad6b0d6063e5.png" height=300>
       </div>
       <div class="item item6">
-        <img src="https://user-images.githubusercontent.com/69354578/216645215-e25e2982-cf3e-4090-9702-43c26efdd667.png" height=500>
+        <img src="https://user-images.githubusercontent.com/69354578/216645215-e25e2982-cf3e-4090-9702-43c26efdd667.png" height=300>
       </div>
       <div class="item item7">
-        <img src="https://user-images.githubusercontent.com/69354578/216645702-c5070a81-b8fa-4c03-84f6-b0884b81f8e7.png" height=500>
+        <img src="https://user-images.githubusercontent.com/69354578/216645702-c5070a81-b8fa-4c03-84f6-b0884b81f8e7.png" height=300>
       </div>
       <div class="item item8">
-        <img src="https://user-images.githubusercontent.com/69354578/216650548-78388761-0841-457c-ac57-b8a9c0371361.png" height=500>
+        <img src="https://user-images.githubusercontent.com/69354578/216650548-78388761-0841-457c-ac57-b8a9c0371361.png" height=300>
       </div>
       <div class="item item9">
-        <img src="https://user-images.githubusercontent.com/69354578/216647464-bb8c3084-dc53-454b-8035-b8a8514ecf0e.png" height=500>
+        <img src="https://user-images.githubusercontent.com/69354578/216647464-bb8c3084-dc53-454b-8035-b8a8514ecf0e.png" height=300>
       </div>
       <div class="item item10">
-        <img src="https://user-images.githubusercontent.com/69354578/216638923-44e36345-a588-4119-af30-96d505ab3b74.png" height=500>
+        <img src="https://user-images.githubusercontent.com/69354578/216638923-44e36345-a588-4119-af30-96d505ab3b74.png" height=300>
       </div>
       <div class="item item11">
-        <img src="https://user-images.githubusercontent.com/69354578/216639113-1da1ae92-e5b5-4836-9d58-5686e8aa854b.png" height=500>
+        <img src="https://user-images.githubusercontent.com/69354578/216639113-1da1ae92-e5b5-4836-9d58-5686e8aa854b.png" height=300>
       </div>
       <div class="item item12">
-        <img src="https://user-images.githubusercontent.com/69354578/216641172-fe844eb4-1cb4-4ca9-8bc8-6ec4ef142bbc.png" height=500>
+        <img src="https://user-images.githubusercontent.com/69354578/216641172-fe844eb4-1cb4-4ca9-8bc8-6ec4ef142bbc.png" height=300>
       </div>
     </div>
   </main>
