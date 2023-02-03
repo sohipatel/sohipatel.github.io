@@ -88,16 +88,18 @@
       <div class="item item1">
         <img src="https://user-images.githubusercontent.com/69354578/215794709-d9cce31c-8760-41d0-a6ff-64c9ed4f193d.png">
       </div>
-      <div class="item item2"></div>
+      <div class="item item2">
         <img src="https://user-images.githubusercontent.com/69354578/215794709-d9cce31c-8760-41d0-a6ff-64c9ed4f193d.png">
       </div>
-      <div class="item item3"></div>
+      <div class="item item3">
         <img src="https://user-images.githubusercontent.com/69354578/215794709-d9cce31c-8760-41d0-a6ff-64c9ed4f193d.png">
       </div>
-      <div class="item item4"></div>
+      <div class="item item4">
         <img src="https://user-images.githubusercontent.com/69354578/215794709-d9cce31c-8760-41d0-a6ff-64c9ed4f193d.png">
       </div>
-      <div class="item item5"></div>
+      <div class="item item5">
+        <img src="https://user-images.githubusercontent.com/69354578/215794709-d9cce31c-8760-41d0-a6ff-64c9ed4f193d.png">
+      </div>
       <div class="item item6"></div>
       <div class="item item7"></div>
       <div class="item item8"></div>
