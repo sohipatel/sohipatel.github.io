@@ -149,7 +149,14 @@
    if(!isDown) return;
    e.preventDefault();
    const x = e.pageX - slider.offsetLeft;
-   const walk = (x - startX) * 3; //scroll-fast
+   const walk = (x - startX) * 3; // scroll-fast
+   let newScrollLeft = scrollLeft - walk;
+   if (newScrollLeft < 0) {
+     newScrollLeft = 0;
+   } else if (newScrollLeft > slider.scrollWidth - slider.clientWidth) {
+     newScrollLeft = slider.scrollWidth - slider.clientWidth;
+   }
+   slider.scrollLeft = newScrollleft;
    slider.scrollLeft = scrollLeft - walk;
    console.log(walk);
    });
