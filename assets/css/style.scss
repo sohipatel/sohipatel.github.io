@@ -203,7 +203,7 @@ html, body {
     background-color: lighten(white, 60%);
     grid-area: main;
     padding: 0;
-    overflow-x: scroll;
+    overflow-x: hidden;
     overflow-y: hidden;
   }
   
@@ -216,7 +216,7 @@ html, body {
   .items {
     position: relative;
     width: 100%;
-    overflow-x: hidden;
+    overflow-x: scroll;
     overflow-y: hidden;
     white-space: nowrap;
     transition: all 0.2s;
