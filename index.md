@@ -1,7 +1,7 @@
 ## 👋 Hello!
 
 <center><img src="https://user-images.githubusercontent.com/69354578/215614058-5d292894-3746-4400-9361-dd739f571cf7.gif" width="100%"></center>
-<font size="+1"><p>I'm Sohi, an incoming freshman at Yale interested in microrobotics and smart materials. I'm currently building <strong><a href="https://www.gravelrobotics.com" target="_blank" rel="noopener noreferrer">Gravel</a></strong>, a deep tech startup realizing programmable matter. In my free time, I enjoy street skating, reading Modernist poetry, and gardening herbs 😊</p></font>
+<font size="+1"><p>I'm Sohi, an incoming freshman at Yale interested in microrobotics and smart materials. I'm currently building <strong><a href="https://www.gravelrobotics.com" target="_blank" rel="noopener noreferrer">Gravel</a></strong>, a deep tech startup bringing programmable matter to industry. In my free time, I enjoy street skating, reading Modernist poetry, and gardening herbs 😊</p></font>
 <div class="spacer"></div>
 
 ## 🔧 Featured Projects
