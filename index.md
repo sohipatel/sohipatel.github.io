@@ -61,7 +61,7 @@
 
 ## 📈 Key Experiences
 
-<font size="+1"><p><a href="https://www.ll.mit.edu/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215586597-aec7a3e2-8bd2-4f45-8096-eacaa5976ec6.png" height=25></a>          <strong>MIT Lincoln Laboratory</strong> | Federally funded to research radar and defense tech</p>
+<font size="+1"><p><a href="https://www.ll.mit.edu/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215586597-aec7a3e2-8bd2-4f45-8096-eacaa5976ec6.png" height=25></a>          <strong>MIT Lincoln Laboratory</strong> | Federally funded to research radars and defense tech</p>
 <p><a href="https://www.nasa.gov/centers/johnson/home/index.html" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215586736-3b97dff7-baae-453a-a149-b1b80f730330.png" height=25></a>      <strong>NASA Johnson Space Center</strong> | Built a VR microgravity simulator for future missions</p>
 <p><a href="https://www.hmns.org/planetarium/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215586946-eccf09e6-1eef-47c1-a52e-4087f8c92937.png" height=25></a>      <strong>Houston Museum of Natural Science</strong> | Created 2 best-selling planetarium shows</p>
 <p><a href="https://techtogether.io/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215587123-aee87a9d-c5a2-4756-8ca3-f5f4bde54007.png" height=25></a>         <strong>TechTogether</strong> | Raised $14k+ by recruiting sponsors like Amazon and Microsoft</p>
