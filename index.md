@@ -77,7 +77,7 @@
 <p>✦ <strong>Regeneron International Science and Engineering Fair</strong> | <a href="https://www.societyforscience.org/press-release/2021-regeneron-isef-grand-awards/" target="_blank" rel="noopener noreferrer">4th in Materials Science</a></p>
 <p>✦ <strong>South by Southwest</strong> | <a href="https://www.sxsw.com/conference/2050-track/" target="_blank" rel="noopener noreferrer">Featured "Technology in 2050" Panelist</a></p>
 <p>✦ <strong>Effective Altruism</strong>  | <a href="https://www.atlasfellowship.org/" target="_blank" rel="noopener noreferrer">Atlas Fellowship Fund Beneficiary</a></p>
-<p>✦ <strong>Defense TechConnect</strong> | <a href="https://www.techconnectworld.com/World2023/" target="_blank" rel="noopener noreferrer">Nanotechnology and Advanced Materials Exhibitor</a></p>
+<p>✦ <strong> TechConnect World</strong> | <a href="https://www.techconnectworld.com/World2023/" target="_blank" rel="noopener noreferrer">Nanotechnology and Advanced Materials Exhibitor</a></p>
 <p>✦ <strong>Houston Business Journal</strong> | <a href="https://www.bizjournals.com/houston/inno/stories/awards/2021/10/29/meet-houston-inno-under-25-awards-honorees.html" target="_blank" rel="noopener noreferrer">Inno 25 Under 25</a></p></font>
 <div class="spacer"></div>
 
