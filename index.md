@@ -161,6 +161,9 @@
 </script>
 <br>
 
+## 🪩 SOHI FM
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2HpXdE2vsl8CNBk0rzxKP3?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ## 📮 Connect With Me
 
 <center><a href="https://twitter.com/sohi_patel" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215394588-38c0cdb1-bc66-4bdc-9137-60c82627be9c.png" width="60" height="60" align="center"/></a><a href="https://calendly.com/sohipatel" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/226227735-bfc79f88-e0af-4d19-893f-f94379d0da79.png" width="60" height="60" align="center"/></a><a href="mailto:tapote11@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215394904-8b7ba959-9a09-4e8d-805c-60e15dadc2bb.png" width="60" height="60" align="center"/></a><a href="https://linkedin.com/in/sohipatel" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215395215-69a65eab-d35e-4986-a3fc-5a507bcf282c.png" width="60" height="60" align="center"/></a></center>
