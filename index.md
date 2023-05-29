@@ -75,6 +75,7 @@
 <p>✦ <strong>Regeneron International Science and Engineering Fair</strong> | <a href="https://www.societyforscience.org/press-release/2022-regeneron-isef-top-winners/" target="_blank" rel="noopener noreferrer">1st in Materials Science</a></p>
 <p>✦ <strong>US Environmental Protection Agency</strong> | <a href="https://www.epa.gov/newsreleases/high-school-student-wins-epa-award-eco-friendly-foam-alternative" target="_blank" rel="noopener noreferrer">Patrick H. Hurd Sustainability Awardee </a></p>
 <p>✦ <strong>National Junior Science and Humanities Symposium</strong> | <a href="https://jshs.org/2022/04/25/2022-national-jshs-winners/" target="_blank" rel="noopener noreferrer">2nd in Chemistry</a></p>
+<p>✦ <strong>Regeneron International Science and Engineering Fair</strong> | <a href="https://www.societyforscience.org/press-release/regeneron-isef-full-awards-2023/" target="_blank" rel="noopener noreferrer">3rd in Materials Science</a></p>
 <p>✦ <strong>Regeneron International Science and Engineering Fair</strong> | <a href="https://www.societyforscience.org/press-release/2021-regeneron-isef-grand-awards/" target="_blank" rel="noopener noreferrer">4th in Materials Science</a></p>
 <p>✦ <strong>South by Southwest</strong> | <a href="https://www.sxsw.com/conference/2050-track/" target="_blank" rel="noopener noreferrer">Featured "Technology in 2050" Panelist</a></p>
 <p>✦ <strong>Effective Altruism</strong>  | <a href="https://www.atlasfellowship.org/" target="_blank" rel="noopener noreferrer">Atlas Fellowship Fund Beneficiary</a></p>
@@ -109,7 +110,7 @@
         <img src="https://user-images.githubusercontent.com/69354578/216650548-78388761-0841-457c-ac57-b8a9c0371361.png" height=300>
       </div>
       <div class="item item8">
-        <img src="https://user-images.githubusercontent.com/69354578/216645702-c5070a81-b8fa-4c03-84f6-b0884b81f8e7.png" height=300>
+        <img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/7ebd1e35-c7a5-4e05-886f-b838ce4be663" height=300>
       </div>
       <div class="item item9">
         <img src="https://user-images.githubusercontent.com/69354578/216647464-bb8c3084-dc53-454b-8035-b8a8514ecf0e.png" height=300>
