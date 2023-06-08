@@ -8,7 +8,15 @@
 
 <div class="carousel">
     <div class="carousel-inner">
-        <input class="carousel-open" type="radio" id="carousel-3" name="carousel" aria-hidden="true" hidden="" checked="checked">
+        <input class="carousel-open" type="radio" id="carousel-1" name="carousel" aria-hidden="true" hidden="" checked="checked">
+        <div class="carousel-item">
+            <a href="https://drive.google.com/file/d/1dbYj7YN_id1NPPBHnqS_INty4lq6-gYX/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/244265571-e20e44f7-ddb4-4cd1-a9e1-11f4a27bd4d8.png"></a>
+        </div>
+        <input class="carousel-open" type="radio" id="carousel-2" name="carousel" aria-hidden="true" hidden="">
+        <div class="carousel-item">
+            <a href="https://drive.google.com/file/d/14fXgl53Sncfo1NoqP1vzqfr1p2tsnpZ9/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215793348-e5b99961-e124-42e9-b845-f3f2d8ca5114.png"></a>
+        </div>
+        <input class="carousel-open" type="radio" id="carousel-3" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
             <a href="https://drive.google.com/file/d/1xT5-0BbiMv2YCHdYRiXTct0ujvEUTu16/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215793760-ccb0b5ee-e647-44d4-adaf-fb2fa0c01421.png"></a>
         </div>
