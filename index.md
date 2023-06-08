@@ -10,7 +10,7 @@
     <div class="carousel-inner">
         <input class="carousel-open" type="radio" id="carousel-1" name="carousel" aria-hidden="true" hidden="" checked="checked">
         <div class="carousel-item">
-            <a href="https://drive.google.com/file/d/1dbYj7YN_id1NPPBHnqS_INty4lq6-gYX/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/244265571-e20e44f7-ddb4-4cd1-a9e1-11f4a27bd4d8.png"></a>
+            <a href="https://drive.google.com/file/d/1Eipt4E-_ookF5nwEkXhit61RyWGGb3HG/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/244265571-e20e44f7-ddb4-4cd1-a9e1-11f4a27bd4d8.png"></a>
         </div>
         <input class="carousel-open" type="radio" id="carousel-2" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
