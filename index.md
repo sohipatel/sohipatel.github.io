@@ -1,7 +1,7 @@
 ## 👋 Hello!
 
 <center><img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/298962b2-3062-4cfd-ae6d-69dc15967e6b" width="100%"></center>
-<font size="+1"><p>I'm Sohi, a Yale engineering student by day and a deep tech researcher by night. I'm  interested in robotics, smart materials, and future-forward innovation. In my free time, I enjoy street skating, reading Modernist poetry, and gardening herbs 😊</p></font>
+<font size="+1"><p>I'm Sohi, a Yale engineering student by day and a deep tech researcher by night. I'm interested in robotics, smart materials, and future-forward innovation. In my free time, I enjoy going on long drives, curating poetry, and gardening herbs 😊</p></font>
 <div class="spacer"></div>
 
 ## 🔧 Featured Projects
@@ -26,7 +26,7 @@
         </div>
         <input class="carousel-open" type="radio" id="carousel-5" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
-             <a href="https://youtu.be/rzD94Mv5NsY" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/216154589-ba30f09f-72ef-4942-bfed-35aeb184758b.png" width="650" height="512"></a>
+             <a href="https://tickets.hmns.org/default.aspx?tagid=6" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/244828134-ea2bd7c8-aeb8-4958-9bb3-0c85adf901d0.png"></a>
         </div>
         <label for="carousel-5" class="carousel-control prev control-1">‹</label>
         <label for="carousel-4" class="carousel-control next control-3">›</label>
