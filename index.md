@@ -62,12 +62,12 @@
 ## 📈 Key Experiences
 
 <font size="+1">
-<p><a href="https://ajayan.rice.edu/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/9f9ee4d6-4497-43d3-89b7-7e0dd54f60e0" height=25></a>            <strong>Rice University</strong> | Growing and characterizing atomically-thin 2D memristors</p>
-<p><a href="https://www.rtx.com/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/232358213-d7df816c-041b-4f3b-b027-0b8e4ab72dec.png" height=25></a>          <strong>Raytheon Technologies</strong> | Designing digital circuits for ground radio systems</p>
+<p><img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/9f9ee4d6-4497-43d3-89b7-7e0dd54f60e0" height=25>            <strong>Rice University</strong> | Growing and characterizing atomically-thin 2D memristors</p>
+<p><img src="https://user-images.githubusercontent.com/69354578/232358213-d7df816c-041b-4f3b-b027-0b8e4ab72dec.png" height=25>          <strong>Raytheon Technologies</strong> | Designing digital circuits for ground radio systems</p>
 <p><img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/c6ca7f6a-5daa-472c-81ef-6a54c4864cf4" height=25>            <strong>Gravel Robotics (acquired)</strong> | Founded and sold a programmable matter startup</p>
-<p><a href="https://www.ll.mit.edu/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215586597-aec7a3e2-8bd2-4f45-8096-eacaa5976ec6.png" height=25></a>           <strong>MIT Lincoln Laboratory</strong> | Federally funded to research radars and defense tech</p>
-<p><a href="https://www.nasa.gov/centers/johnson/home/index.html" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215586736-3b97dff7-baae-453a-a149-b1b80f730330.png" height=25></a>      <strong>NASA Johnson Space Center</strong> | Built a VR microgravity simulator for NEO asteroids</p>
-<p><a href="https://www.hmns.org/planetarium/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215586946-eccf09e6-1eef-47c1-a52e-4087f8c92937.png" height=25></a>      <strong>Houston Museum of Natural Science</strong> | Created 2 best-selling planetarium shows</p></font>
+<p><img src="https://user-images.githubusercontent.com/69354578/215586597-aec7a3e2-8bd2-4f45-8096-eacaa5976ec6.png" height=25>           <strong>MIT Lincoln Laboratory</strong> | Federally funded to research radars and defense tech</p>
+<p><img src="https://user-images.githubusercontent.com/69354578/215586736-3b97dff7-baae-453a-a149-b1b80f730330.png" height=25>      <strong>NASA Johnson Space Center</strong> | Built a VR microgravity simulator for NEO asteroids</p>
+<p><img src="https://user-images.githubusercontent.com/69354578/215586946-eccf09e6-1eef-47c1-a52e-4087f8c92937.png" height=25>      <strong>Houston Museum of Natural Science</strong> | Created 2 best-selling planetarium shows</p></font>
 <div class="spacer"></div>
 
 ## 🏆 Awards and Press
