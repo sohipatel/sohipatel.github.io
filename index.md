@@ -52,6 +52,14 @@
 <p><img src="https://user-images.githubusercontent.com/69354578/215586946-eccf09e6-1eef-47c1-a52e-4087f8c92937.png" height=25>      <strong>Houston Museum of Natural Science</strong> | Created 2 best-selling planetarium shows</p></font>
 <div class="spacer"></div>
 
+## 🎤 Speaking Engagements
+<font size="+1"><p>✦ <strong>TechConnect World Innovation Conference</strong>  | Gaylord National Convention Center | June 19-21, 2023</p>
+<p>✦ <strong>Engineering Council of Houston Banquet</strong>  | The Forest Club | May 24, 2023</p>
+<p>✦ <strong>South by Southwest Conference</strong>  | Austin Marriott Downtown | March 11, 2023</p>
+<p>✦ <strong>ISEF Education Outreach Day</strong>  | Georgia World Congress Center | May 12, 2022</p>
+<p>✦ <strong>Greater Houston Women's Chamber of Commerce Summit</strong> | The Woodlands Resort | November 18, 2021</p></font>
+<div class="spacer"></div>
+
 ## 🏆 Awards and Press
 
 <font size="+1"><p>✦ <strong>Regeneron Science Talent Search</strong>  | <a href="https://www.societyforscience.org/press-release/300-teen-scientists-selected-as-regeneron-sts-2023-scholars/" target="_blank" rel="noopener noreferrer">2023 Scholar</a></p>
