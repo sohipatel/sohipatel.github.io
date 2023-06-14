@@ -57,7 +57,7 @@
 <p>✦ <strong>Engineering Council of Houston Banquet</strong>  | Keynote at the Forest Club, May 24, 2023</p>
 <p>✦ <strong>South by Southwest Conference</strong>  | "Programmable Matter: The Dawn of Smart Materials" at Austin Marriott Downtown, March 11, 2023</p>
 <p>✦ <strong>ISEF Education Outreach Day</strong>  | "Effective Scientific Communication" at Georgia World Congress Center, May 12, 2022</p>
-<p>✦ <strong>Greater Houston Women's Chamber of Commerce Summit</strong> | Keynote at The Woodlands Resort, November 18, 2021</p></font>
+<p>✦ <strong>Greater Houston Women's Chamber of Commerce Summit</strong> | Keynote at the Woodlands Resort, November 18, 2021</p></font>
 <div class="spacer"></div>
 
 ## 🏆 Awards and Press
