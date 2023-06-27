@@ -7,7 +7,7 @@
 	<div class="container py-2">
 		<article class="postcard light blue">
 			<a class="postcard__img_link" href="#">
-				<img class="postcard__img" src="https://picsum.photos/1000/1000" alt="Image Title" />
+				<img class="postcard__img" src="https://picsum.photos/1000/1000" />
 			</a>
 			<div class="postcard__text t-dark">
 				<h1 class="postcard__title blue"><a href="#">Podcast Title</a></h1>
@@ -27,6 +27,7 @@
 				</ul>
 			</div>
 		</article>
+		<!--
 		<article class="postcard light red">
 			<a class="postcard__img_link" href="#">
 				<img class="postcard__img" src="https://picsum.photos/501/500" alt="Image Title" />	
@@ -93,5 +94,6 @@
 				</ul>
 			</div>
 		</article>
+		-->
 	</div>
 </section>
