@@ -9,7 +9,7 @@
 <div class="card">
   <a href="https://time.is">
     <div class="container">
-      <h4><b>bad losses for good reasons</b></h4>
+      <h4><b>hard losses for good reasons</b></h4>
       <p>June 28, 2023</p>
     </div>
   </a>
