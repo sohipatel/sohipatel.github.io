@@ -5,7 +5,7 @@
   directory = "_site"
   
 [[redirects]]
-  from = "/assets/css/*"
-  to = "/assets/css/:splat"
+  from = "/*"
+  to = "/index.md"
   status = 200
   force = true
