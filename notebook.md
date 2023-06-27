@@ -6,8 +6,8 @@
 <div class="card">
   <a href="https://time.is">
     <div class="container">
-      <h4><b>Post 1</b></h4>
-      <p>June 27, 2023</p>
+      <h4><b>bad losses for good reasons</b></h4>
+      <p>June 28, 2023</p>
     </div>
   </a>
 </div>
