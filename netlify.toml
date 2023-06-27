@@ -1,0 +1,11 @@
+[build]
+  command = "jekyll build"
+  
+[publish]
+  directory = "_site"
+  
+[[redirects]]
+  from = "/assets/css/*"
+  to = "/assets/css/:splat"
+  status = 200
+  force = true
