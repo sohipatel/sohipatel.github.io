@@ -4,8 +4,10 @@
 <font size="+1"><p>I've been journaling since I was a kid. Whether penned in 80¢ composition notebooks, scrawled across the margins of homework assignments, or click-clacked out in my iPhone's Notes app, words are the way I like to make sense of the world. In this digital notebook, you'll find retellings of lived experiences, unravelings of complex feelings, and the occasional book review. But that's enough from narrator Sohi for now... read on!</p></font>
 <div class="spacer"></div>
 <div class="card">
-  <div class="container">
-    <h4><b>Post 1</b></h4>
-    <p>June 27, 2023</p>
-  </div>
+  <a href="https://time.is">
+    <div class="container">
+      <h4><b>Post 1</b></h4>
+      <p>June 27, 2023</p>
+    </div>
+  </a>
 </div>
