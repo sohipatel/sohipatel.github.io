@@ -1,7 +1,7 @@
 ## 👋 Hello!
 
 <center><img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/298962b2-3062-4cfd-ae6d-69dc15967e6b" width="100%"></center>
-<font size="+1"><p>I'm Sohi, Yale engineering student by day and deep tech researcher by night. I'm interested in robotics, smart materials, and future-forward innovation. In my free time, I enjoy street skating, making sense of poetry, and gardening herbs 😊</p></font>
+<font size="+1"><p>I'm Sohi, Yale engineering student by day and deep tech researcher by night. I'm obsessed with robotics, smart materials, and bringing sci fi to life. In my free time, I enjoy street skating, making sense of poetry, and gardening herbs 😊</p></font>
 <div class="spacer"></div>
 
 ## 🔧 Featured Projects
