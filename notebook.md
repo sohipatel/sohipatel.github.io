@@ -5,7 +5,9 @@
 <div class="spacer"></div>
 <a href="https://time.is" class="blog-card">
   <div class="card">
-    <img src="img_avatar.png" style="width: 100%">
+    <div class="cardimg">
+      <img src="img_avatar.png" style="width: 100%">
+    </div>
     <div class="container">
       <h4><b>Post 1</b></h4>
       <p>June 27, 2023</p>
