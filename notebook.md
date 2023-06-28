@@ -7,7 +7,7 @@
 ## 📋 Recent posts
 
 <div class="card">
-  <a href="/notebook/062823">
+  <a href="/notebook/comingsoon">
     <div class="container">
       <h4><b>first post coming soon</b></h4>
       <p>date TBA</p>
