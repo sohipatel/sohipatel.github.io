@@ -7,7 +7,7 @@
 ## 📋 Recent posts
 
 <div class="card">
-  <a href="https://time.is">
+  <a href="/notebook/062823">
     <div class="container">
       <h4><b>hard losses for good reasons</b></h4>
       <p>June 28, 2023</p>
