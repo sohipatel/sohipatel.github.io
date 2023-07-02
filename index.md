@@ -140,7 +140,7 @@
 <br>
 
 ## 🪩 Sohi FM
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2HpXdE2vsl8CNBk0rzxKP3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7J2UAQ1O0U4JWYv0xz72iy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <br>
 
 ## 📮 Connect With Me
