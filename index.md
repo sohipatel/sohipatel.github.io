@@ -45,7 +45,7 @@
 ## 📜 Education
 
 <font size="+1">
-<p><img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/025c8ee7-2b7a-4b0b-875b-cdf372e6527a" height=25>         <strong>Yale University</strong> | B.S. in Electrical Engineering and Computer Science | 2023-2027</p></font>
+<p><img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/025c8ee7-2b7a-4b0b-875b-cdf372e6527a" height=22>          <strong>Yale University</strong> | 2023-2027 | B.S. in Electrical Engineering and Computer Science</p></font>
 <div class="spacer"></div>
 
 ## 🎤 Speaking Engagements
