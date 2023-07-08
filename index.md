@@ -4,6 +4,22 @@
 <font size="+1"><p>I'm Sohi, engineering student by day and deep tech founder by night. I'm interested in using robotics, advanced materials, and nanotechnology to solve critical issues in manufacturing, aerospace, transportation, and defense. I live by 2 core philosophies: nothing imaginable is impossible to create and sci fi exists to be brought to life.</p></font>
 <div class="spacer"></div>
 
+## 📜 Education
+
+<font size="+1">
+<p><img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/025c8ee7-2b7a-4b0b-875b-cdf372e6527a" height=22>          <strong>Yale University</strong> | 2023-2027 | B.S. in Electrical Engineering and Computer Science</p></font>
+<div class="spacer"></div>
+
+## 📈 Key Experiences
+
+<font size="+1">
+<p><img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/441213b5-f5e7-4eb4-9ee6-617469382d4f" height=25>          <strong>Raytheon Technologies</strong> | Designing digital circuits for ground radio systems</p>
+<p><img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/c6ca7f6a-5daa-472c-81ef-6a54c4864cf4" height=25>            <strong>Gravel Robotics (acquired)</strong> | Founded and sold a programmable matter startup</p>
+<p><img src="https://user-images.githubusercontent.com/69354578/215586597-aec7a3e2-8bd2-4f45-8096-eacaa5976ec6.png" height=25>           <strong>MIT Lincoln Laboratory</strong> | Federally funded to research radars and defense tech</p>
+<p><img src="https://user-images.githubusercontent.com/69354578/215586736-3b97dff7-baae-453a-a149-b1b80f730330.png" height=25>      <strong>NASA Johnson Space Center</strong> | Built a VR microgravity simulator for NEO asteroids</p>
+<p><img src="https://user-images.githubusercontent.com/69354578/215586946-eccf09e6-1eef-47c1-a52e-4087f8c92937.png" height=25>      <strong>Houston Museum of Natural Science</strong> | Created 2 best-selling planetarium shows</p></font>
+<div class="spacer"></div>
+
 ## 🔧 Featured Projects
 
 <div class="carousel">
@@ -31,22 +47,6 @@
     </div>
 </div>
 <br>
-
-## 📈 Key Experiences
-
-<font size="+1">
-<p><img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/441213b5-f5e7-4eb4-9ee6-617469382d4f" height=25>          <strong>Raytheon Technologies</strong> | Designing digital circuits for ground radio systems</p>
-<p><img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/c6ca7f6a-5daa-472c-81ef-6a54c4864cf4" height=25>            <strong>Gravel Robotics (acquired)</strong> | Founded and sold a programmable matter startup</p>
-<p><img src="https://user-images.githubusercontent.com/69354578/215586597-aec7a3e2-8bd2-4f45-8096-eacaa5976ec6.png" height=25>           <strong>MIT Lincoln Laboratory</strong> | Federally funded to research radars and defense tech</p>
-<p><img src="https://user-images.githubusercontent.com/69354578/215586736-3b97dff7-baae-453a-a149-b1b80f730330.png" height=25>      <strong>NASA Johnson Space Center</strong> | Built a VR microgravity simulator for NEO asteroids</p>
-<p><img src="https://user-images.githubusercontent.com/69354578/215586946-eccf09e6-1eef-47c1-a52e-4087f8c92937.png" height=25>      <strong>Houston Museum of Natural Science</strong> | Created 2 best-selling planetarium shows</p></font>
-<div class="spacer"></div>
-
-## 📜 Education
-
-<font size="+1">
-<p><img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/025c8ee7-2b7a-4b0b-875b-cdf372e6527a" height=22>          <strong>Yale University</strong> | 2023-2027 | B.S. in Electrical Engineering and Computer Science</p></font>
-<div class="spacer"></div>
 
 ## 🎤 Speaking Engagements
 <font size="+1"><p>✦ <strong>TechConnect World Innovation Conference</strong>  | "Programmable Matter" at Gaylord National Convention Center, June 19-21, 2023</p>
