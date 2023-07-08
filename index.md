@@ -1,7 +1,7 @@
 ## 👋 Hello!
 
 <center><img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/298962b2-3062-4cfd-ae6d-69dc15967e6b" width="100%"></center>
-<font size="+1"><p>I'm Sohi, Yale engineering student by day and deep tech researcher by night. I'm interested in robotics, advanced materials, and nanotechnology. Though my workbench is cluttered, my philosophy is clear: sci fi exists to be brought to life.</p></font>
+<font size="+1"><p>I'm Sohi, Yale engineering student by day and deep tech founder by night. I'm interested in robotics, advanced materials, and nanotechnology. Though my workbench is cluttered, my philosophy is clear: sci fi exists to be brought to life.</p></font>
 <div class="spacer"></div>
 
 ## 🔧 Featured Projects
