@@ -42,6 +42,12 @@
 <p><img src="https://user-images.githubusercontent.com/69354578/215586946-eccf09e6-1eef-47c1-a52e-4087f8c92937.png" height=25>      <strong>Houston Museum of Natural Science</strong> | Created 2 best-selling planetarium shows</p></font>
 <div class="spacer"></div>
 
+## 📜 Education
+
+<font size="+1">
+<p><img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/025c8ee7-2b7a-4b0b-875b-cdf372e6527a" height=25>         <strong>Yale University</strong> | B.S. in Electrical Engineering and Computer Science | 2023-2027</p></font>
+<div class="spacer"></div>
+
 ## 🎤 Speaking Engagements
 <font size="+1"><p>✦ <strong>TechConnect World Innovation Conference</strong>  | "Programmable Matter" at Gaylord National Convention Center, June 19-21, 2023</p>
 <p>✦ <strong>Engineering Council of Houston Banquet</strong>  | Keynote at the Forest Club, May 24, 2023</p>
