@@ -7,10 +7,10 @@
 ## 📋 Recent posts
 
 <div class="card">
-  <a href="/notebook/comingsoon">
+  <a href="/notebook/reflectionsongravel">
     <div class="container">
-      <h4><b>first post coming soon</b></h4>
-      <p>date TBA</p>
+      <h4><b>reflections on Gravel</b></h4>
+      <p>July 20, 2023</p>
     </div>
   </a>
 </div>
