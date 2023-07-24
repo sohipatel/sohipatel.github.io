@@ -7,7 +7,7 @@
 ## 📜 Education
 
 <font size="+1">
-<p>✦ <strong>Yale University</strong> | B.S. in Electrical Engineering and Computer Science and B.S. in Economics</p></font>
+<p>✦ <strong>Yale University</strong> | B.S. in Economics and B.S. in Electrical Engineering and Computer Science</p></font>
 <div class="spacer"></div>
 
 ## 📈 Key Experiences
