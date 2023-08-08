@@ -13,7 +13,7 @@
 ## 📈 Key Experiences
 
 <font size="+1">
-<p>✦ <strong>Raytheon Technologies</strong> | Designing digital circuits for ground radio systems</p>
+<p>✦ <strong>Raytheon Technologies</strong> | Designed digital circuits for ground radio systems</p>
 <p>✦ <strong>Gravel Robotics (acquired)</strong> | Founded and sold a programmable matter startup</p>
 <p>✦ <strong>MIT Lincoln Laboratory</strong> | Federally funded to research radars and defense tech</p>
 <p>✦ <strong>NASA Johnson Space Center</strong> | Built a VR microgravity simulator for NEO asteroids</p>
