@@ -1,7 +1,7 @@
 ## 👋 Hello!
 
 <center><img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/298962b2-3062-4cfd-ae6d-69dc15967e6b" width="98%"></center>
-<font size="+1"><p>I'm Sohi, eng/econ student by day and deep tech founder by night. I'm interested in using robotics, advanced materials, and nanotech to solve critical issues in manufacturing, aerospace, transportation, and defense. I live by 2 core philosophies: nothing imaginable is impossible to create and sci fi exists to be brought to life.</p></font>
+<font size="+1"><p>I'm Sohi, EECS/econ student by day and deep tech founder by night. I'm interested in using robotics, advanced materials, and nanotech to solve critical issues in manufacturing, aerospace, transportation, and defense. I live by 2 core philosophies: nothing imaginable is impossible to create and sci fi exists to be brought to life.</p></font>
 <div class="spacer"></div>
 
 ## 📜 Education
