@@ -7,19 +7,19 @@
 ## 📋 Recent posts
 
 <div class="card">
-  <a href="/notebook/reflectionsongravel">
+  <a href="/notebook/abicycleforthebody">
     <div class="container">
-      <h4><b>reflections on Gravel</b></h4>
-      <p>July 20, 2023</p>
+      <h4><b>a bicycle for the body</b></h4>
+      <p>September 04, 2023</p>
     </div>
   </a>
 </div>
 <div class="spacer"></div>
 <div class="card">
-  <a href="/notebook/abicycleforthebody">
+  <a href="/notebook/reflectionsongravel">
     <div class="container">
-      <h4><b>a bicycle for the body</b></h4>
-      <p>September 04, 2023</p>
+      <h4><b>reflections on Gravel</b></h4>
+      <p>July 20, 2023</p>
     </div>
   </a>
 </div>
