@@ -15,3 +15,12 @@
   </a>
 </div>
 <div class="spacer"></div>
+<div class="card">
+  <a href="/notebook/abicycleforthebody">
+    <div class="container">
+      <h4><b>a bicycle for the body</b></h4>
+      <p>September 04, 2023</p>
+    </div>
+  </a>
+</div>
+<div class="spacer"></div>
