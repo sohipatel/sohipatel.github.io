@@ -1,7 +1,7 @@
-## reflections on Gravel
-<div style="text-align: right">July 20, 2023</div>
+<div class="posthead">## reflections on Gravel</div>
+<font size="+1"><div style="text-align: right">July 20, 2023</div>
 
-<font size="+1"><p>Over a month after Gravel’s acquisition, I’m finally pausing to collect my thoughts and reflect on paper. The stack of Gravel Robotics business cards on my windowsill and the origami dodecahedrons piled next to them are a reflection in their own capacity: coincidental commentary on the multimillion dollar nanotech company that emerged from a midnight research rabbithole on utility fog.</p>
+<p>Over a month after Gravel’s acquisition, I’m finally pausing to collect my thoughts and reflect on paper. The stack of Gravel Robotics business cards on my windowsill and the origami dodecahedrons piled next to them are a reflection in their own capacity: coincidental commentary on the multimillion dollar nanotech company that emerged from a midnight research rabbithole on utility fog.</p>
 
 <p>From my document edit history, that night was 2 years and 3 months ago. In previous years, my science fair projects had touched on advanced materials, but always from a chemistry perspective rather than a robotics one. But I was starting to wonder: <em>what’s the point of all these materials? Metals and ceramics and polymers and wood — I mean, isn’t it all just so outdated?</em> Entering buildings or vehicles made 15 year old me’s head spin as I began to categorize and calculate the cost of every material and machining process possibly in use. <em>Why couldn’t a universal material exist?</em></p>
 
