@@ -6,7 +6,7 @@
 
 ## 📋 Recent posts
 
-<div class="card">
+<div class="card" style="background-color: ##F7C87C">
   <a href="/notebook/abicycleforthebody">
     <div class="container">
       <h4><b>a bicycle for the body</b></h4>
@@ -15,7 +15,7 @@
   </a>
 </div>
 <div class="spacer"></div>
-<div class="card">
+<div class="card" style="background-color: #F7CCD3">
   <a href="/notebook/reflectionsongravel">
     <div class="container">
       <h4><b>reflections on Gravel</b></h4>
