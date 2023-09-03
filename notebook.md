@@ -6,7 +6,7 @@
 
 ## 📋 Recent posts
 
-<div class="card" style="background-color: #F7C87C">
+<div class="card" style="background-color: #FADCAC">
   <a href="/notebook/abicycleforthebody">
     <div class="container">
       <h4><b>a bicycle for the body</b></h4>
