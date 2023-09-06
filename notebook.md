@@ -10,7 +10,7 @@
   <a href="/notebook/abicycleforthebody">
     <div class="container">
       <h4><b>a bicycle for the body</b></h4>
-      <p>September 04, 2023</p>
+      <p>September 07, 2023</p>
     </div>
   </a>
 </div>
