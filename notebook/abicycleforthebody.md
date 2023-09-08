@@ -1,3 +1,4 @@
+<title>a bicycle for the body</title>
 <h2 class="posthead">a bicycle for the body</h2>
 <font size="+1"><div style="text-align: right; padding-bottom: 8px;">September 08, 2023</div>
 
