@@ -1,3 +1,4 @@
+<title>reflections on Gravel</title>
 <h2 class="posthead">reflections on Gravel</h2>
 <font size="+1"><div style="text-align: right; padding-bottom: 8px;">July 20, 2023</div>
 
