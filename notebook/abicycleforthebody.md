@@ -1,6 +1,6 @@
 <title>a bicycle for the body</title>
 <h2 class="posthead">a bicycle for the body</h2>
-<font size="+1"><div style="text-align: right; padding-bottom: 8px;">September 08, 2023</div>
+<font size="+1"><div style="text-align: right; padding-bottom: 8px; margin: 0 5px;">September 08, 2023</div>
 
 <p>You only learn to ride a bike once. It isn’t like ice skating, which you can part ways with after Christmas and then tumble into the rink like a newborn duckling a year later. Biking gets hardcoded into your legs, your core, your arms, your back; the very motion of cycling has been natural to humans long before we invented the bike (though how we know that, I don’t know).</p>
 
