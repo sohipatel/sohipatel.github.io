@@ -1,6 +1,6 @@
 <title>reflections on Gravel</title>
 <h2 class="posthead">reflections on Gravel</h2>
-<font size="+1"><div style="text-align: right; padding-bottom: 8px;">July 20, 2023</div>
+<font size="+1"><div style="text-align: right; padding-bottom: 8px; margin: 0 5px;">July 20, 2023</div>
 
 <p>Over a month after Gravel’s acquisition, I’m finally pausing to collect my thoughts and reflect on paper. The stack of Gravel Robotics business cards on my windowsill and the origami dodecahedrons piled next to them are a reflection in their own capacity: coincidental commentary on the multimillion dollar nanotech company that emerged from a midnight research rabbithole on utility fog.</p>
 
