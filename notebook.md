@@ -6,15 +6,6 @@
 
 ## 📋 Recent posts
 
-<div class="card" style="background-color: #FADCAC">
-  <a href="/notebook/abicycleforthebody">
-    <div class="container">
-      <h4><b>a bicycle for the body</b></h4>
-      <p>September 08, 2023</p>
-    </div>
-  </a>
-</div>
-<div class="spacer"></div>
 <div class="card" style="background-color: #F7CCD3">
   <a href="/notebook/reflectionsongravel">
     <div class="container">
