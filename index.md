@@ -17,7 +17,8 @@
 <p>✦ <strong>Gravel Robotics (acquired)</strong> | Founded and sold a programmable matter startup</p>
 <p>✦ <strong>MIT Lincoln Laboratory</strong> | Federally funded to research radars and defense tech</p>
 <p>✦ <strong>NASA Johnson Space Center</strong> | Built a VR microgravity simulator for NEO asteroids</p>
-<p>✦ <strong>Houston Museum of Natural Science</strong> | Created 2 best-selling planetarium shows</p></font>
+<p>✦ <strong>Houston Museum of Natural Science</strong> | Created 2 best-selling planetarium shows</p>
+<p>✦ <strong>SMU BAST Lab</strong> | Investigated solid-state nanopores for single molecule studies</p></font>
 <div class="spacer"></div>
 
 ## 🔧 Featured Projects
