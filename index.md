@@ -13,7 +13,6 @@
 ## 📈 Key Experiences
 
 <font size="+1">
-<p>✦ <strong>Yale Social Robotics Lab</strong> | Using LLMs to optimize robot TAMP and manipulation</p>
 <p>✦ <strong>Gravel Robotics (acquired)</strong> | Founded and sold a programmable matter startup</p>
 <p>✦ <strong>MIT Lincoln Laboratory</strong> | Federally funded to research radars and defense tech</p>
 <p>✦ <strong>NASA Johnson Space Center</strong> | Built a VR microgravity simulator for NEO asteroids</p>
