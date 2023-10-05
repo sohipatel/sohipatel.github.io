@@ -13,6 +13,7 @@
 ## 📈 Key Experiences
 
 <font size="+1">
+<p>✦ <strong>Cychates</strong> | Building a nanorobotic implant to autoregulate health and wellness</p>
 <p>✦ <strong>Gravel Robotics (acquired)</strong> | Founded and sold a programmable matter startup</p>
 <p>✦ <strong>MIT Lincoln Laboratory</strong> | Federally funded to research radars and defense tech</p>
 <p>✦ <strong>NASA Johnson Space Center</strong> | Built a VR microgravity simulator for NEO asteroids</p>
@@ -58,9 +59,9 @@
 
 ## 👥 Affiliations
 <font size="+1">
-<p>✦ <strong>Yale Entrepreneurial Society</strong> | Director of Partnerships, 2023-24</p>
-<p>✦ <strong>The DICE Initiative</strong> | President, 2021-23</p>
-<p>✦ <strong>TechTogether (acq. MLH)</strong> | Director of Partnerships, 2020-21</p></font>
+<p>✦ <strong>Yale Entrepreneurial Society</strong> | Director of Partnerships, September 2023 on</p>
+<p>✦ <strong>The DICE Initiative</strong> | President, May 2020 - May 2023</p>
+<p>✦ <strong>TechTogether (acq. MLH)</strong> | Director of Partnerships, October 2020 - March 2021</p></font>
 <div class="spacer"></div>
 
 ## 🏆 Awards and Press
