@@ -24,7 +24,7 @@
 ## 👥 Volunteer Work
 <font size="+1">
 <p>✦ <strong>Yale Entrepreneurial Society</strong> | Connecting Yale with the global startup/VC scene</p>
-<p>✦ <strong>The DICE Initiative</strong> | Led a 3 year, 150+ member, service-based learning club</p>
+<p>✦ <strong>The DICE Initiative</strong> | Led a 160+ member service-based learning club for 3 years</p>
 <p>✦ <strong>TechTogether (acq. MLH)</strong> | Raised $14k+ from sponsors like Microsoft and VZW</p></font>
 <div class="spacer"></div>
 
