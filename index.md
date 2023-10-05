@@ -21,6 +21,13 @@
 <p>✦ <strong>SMU BAST Lab</strong> | Investigated solid-state nanopores for single molecule studies</p></font>
 <div class="spacer"></div>
 
+## 👥 Volunteer Work
+<font size="+1">
+<p>✦ <strong>Yale Entrepreneurial Society</strong> | Connecting Yale with the global startup/VC scene</p>
+<p>✦ <strong>The DICE Initiative</strong> | Led a 3 year, 150+ member, service-based learning club</p>
+<p>✦ <strong>TechTogether (acq. MLH)</strong> | Raised $14k+ from sponsors like Microsoft and VZW</p></font>
+<div class="spacer"></div>
+
 ## 🔧 Featured Projects
 
 <div class="carousel">
@@ -55,13 +62,6 @@
 <p>✦ <strong>South by Southwest Conference</strong>  | "Programmable Matter: The Dawn of Smart Materials" at Austin Marriott Downtown, March 11, 2023</p>
 <p>✦ <strong>ISEF Education Outreach Day</strong>  | "Effective Scientific Communication" at Georgia World Congress Center, May 12, 2022</p>
 <p>✦ <strong>Greater Houston Women's Chamber of Commerce Summit</strong> | Keynote at the Woodlands Resort, November 18, 2021</p></font>
-<div class="spacer"></div>
-
-## 👥 Affiliations
-<font size="+1">
-<p>✦ <strong>Yale Entrepreneurial Society</strong> | Director of Partnerships, September 2023 on</p>
-<p>✦ <strong>The DICE Initiative</strong> | President, May 2020 - May 2023</p>
-<p>✦ <strong>TechTogether (acq. MLH)</strong> | Director of Partnerships, October 2020 - March 2021</p></font>
 <div class="spacer"></div>
 
 ## 🏆 Awards and Press
