@@ -56,6 +56,13 @@
 <p>✦ <strong>Greater Houston Women's Chamber of Commerce Summit</strong> | Keynote at the Woodlands Resort, November 18, 2021</p></font>
 <div class="spacer"></div>
 
+## 👥 Affiliations
+<font size="+1">
+<p>✦ <strong>Yale Entrepreneurial Society</strong> | Director of Partnerships, 2023-24</p>
+<p>✦ <strong>The DICE Initiative</strong> | President, 2021-23</p>
+<p>✦ <strong>TechTogether (acq. MLH)</strong> | Director of Partnerships, 2020-21</p></font>
+<div class="spacer"></div>
+
 ## 🏆 Awards and Press
 
 <font size="+1"><p>✦ <strong>Regeneron Science Talent Search</strong>  | <a href="https://www.societyforscience.org/press-release/300-teen-scientists-selected-as-regeneron-sts-2023-scholars/" target="_blank" rel="noopener noreferrer">Top 300 Scholar</a></p>
