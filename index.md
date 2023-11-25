@@ -28,7 +28,7 @@
 <p>✦ <strong>TechTogether (acq. MLH)</strong> | Raised $14k+ from sponsors like Microsoft and VZW</p></font>
 <div class="spacer"></div>
 
-## 🔧 Featured Projects
+<!-- ## 🔧 Featured Projects
 
 <div class="carousel">
     <div class="carousel-inner">
@@ -55,6 +55,7 @@
     </div>
 </div>
 <br>
+-->
 
 ## 🎤 Speaking Engagements
 <font size="+1"><p>✦ <strong>TechConnect World Innovation Conference</strong>  | "Programmable Matter" at Gaylord National Convention Center, June 19-21, 2023</p>
@@ -70,7 +71,7 @@
 <p>✦ <strong>Regeneron International Science and Engineering Fair</strong> | <a href="https://www.societyforscience.org/press-release/2022-regeneron-isef-top-winners/" target="_blank" rel="noopener noreferrer">1st in Materials Science</a></p>
 <p>✦ <strong>US Environmental Protection Agency</strong> | <a href="https://www.epa.gov/newsreleases/high-school-student-wins-epa-award-eco-friendly-foam-alternative" target="_blank" rel="noopener noreferrer">Patrick H. Hurd Sustainability Awardee</a></p>
 <p>✦ <strong>National Junior Science and Humanities Symposium</strong> | <a href="https://jshs.org/2022/04/25/2022-national-jshs-winners/" target="_blank" rel="noopener noreferrer">2nd in Chemistry</a></p>
-<p>✦ <strong>MIT Technology Review</strong> | <a href="https://www.innovatorsunder35.com/" target="_blank" rel="noopener noreferrer">Innovators Under 35 Semi-Finalist</a></p>
+<p>✦ <strong>MIT Technology Review</strong> | <a href="https://www.innovatorsunder35.com/" target="_blank" rel="noopener noreferrer">35 Innovators Under 35 Top 100 Semi-Finalist</a></p>
 <p>✦ <strong>Regeneron International Science and Engineering Fair</strong> | <a href="https://www.societyforscience.org/press-release/regeneron-isef-full-awards-2023/" target="_blank" rel="noopener noreferrer">3rd in Materials Science</a></p>
 <p>✦ <strong>Regeneron International Science and Engineering Fair</strong> | <a href="https://www.societyforscience.org/press-release/2021-regeneron-isef-grand-awards/" target="_blank" rel="noopener noreferrer">4th in Materials Science</a></p>
 <p>✦ <strong>Houston Business Journal</strong> | <a href="https://www.bizjournals.com/houston/inno/stories/awards/2021/10/29/meet-houston-inno-under-25-awards-honorees.html" target="_blank" rel="noopener noreferrer">Inno 25 Under 25</a></p></font>
