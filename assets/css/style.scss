@@ -21,23 +21,6 @@ p {
     margin: 10px 5px 15px 5px;
 }
 
-#left-margin, #right-margin {
-    display: flex;
-    flex-direction: column;
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    width: 50px; /* Adjust the width as needed */
-}
-
-.cell {
-    width: 10px;
-    height: 10px;
-    background-color: #3498db; /* Adjust the color as needed */
-    margin: 2px; /* Adjust the margin between cells as needed */
-}
-
-
 .titleimg {
   padding: 0px;
 }
