@@ -13,8 +13,8 @@
 ## 📈 Key Experiences
 
 <font size="+1">
-<p>✦ <strong>Organ</strong> | Leading a human augmentation technology collective</p>
-<p>✦ <strong>Gravel Robotics (acq. CONF.)</strong> | Founded and sold a programmable matter startup</p>
+<p>✦ <strong>Organ</strong> | Building a biorobotic wearable to autoregulate health and wellness</p>
+<p>✦ <strong>Gravel Robotics (acq. CONF)</strong> | Founded and sold a programmable matter startup</p>
 <p>✦ <strong>MIT Lincoln Laboratory</strong> | Federally funded to research radars and surveillance</p>
 <p>✦ <strong>NASA Johnson Space Center</strong> | Built a VR microgravity simulator for NEO asteroids</p>
 <p>✦ <strong>Houston Museum of Natural Science</strong> | Created 2 best-selling planetarium shows</p>
