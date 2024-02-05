@@ -77,10 +77,6 @@
 <p>✦ <strong>Houston Business Journal</strong> | <a href="https://www.bizjournals.com/houston/inno/stories/awards/2021/10/29/meet-houston-inno-under-25-awards-honorees.html" target="_blank" rel="noopener noreferrer">Inno 25 Under 25</a></p></font>
 <div class="spacer"></div>
 
-## 🪩 sohi fm
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2HpXdE2vsl8CNBk0rzxKP3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<br>
-
 ## 🕯️ poetry portfolio
 <div class="poems">
     <a href="poems/cautiondecomposed.pdf" class="square" data-tooltip="caution, decomposed"> </a>
@@ -99,6 +95,10 @@
     <a href="poems/mrtrue.pdf" class="square" data-tooltip="mr. true"> </a>
     <a href="poems/xkcd59.pdf" class="square" data-tooltip="xkcd 59"> </a>
 </div>
+<br>
+
+## 🪩 sohi fm
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2HpXdE2vsl8CNBk0rzxKP3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <br>
 
 ## 📮 connect with me
