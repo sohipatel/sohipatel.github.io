@@ -1,16 +1,16 @@
-## 👋 Hello!
+## 👋 hello!
 
 <center><img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/298962b2-3062-4cfd-ae6d-69dc15967e6b" width="98%"></center>
 <font size="+1"><p>I'm Sohi, engineering student by day and deep tech founder by night. I'm interested in using robotics, advanced materials, and nanotech to build the devices of the future and augment the human experience. I live by 2 core philosophies: nothing imaginable is impossible to build and if I don't build it, who will?</p></font>
 <div class="spacer"></div>
 
-## 📜 Education
+## 📜 education
 
 <font size="+1">
 <p>✦ <strong>Yale University</strong> | B.S. in Economics and B.S. in Electrical Engineering and Computer Science</p></font>
 <div class="spacer"></div>
 
-## 📈 Key Experiences
+## 📈 key experiences
 
 <font size="+1">
 <p>✦ <strong>Organ</strong> | Building a biorobotic wearable to autoregulate health and wellness</p>
@@ -21,7 +21,7 @@
 <p>✦ <strong>SMU BAST Lab</strong> | Investigated solid-state nanopores for single molecule studies</p></font>
 <div class="spacer"></div>
 
-## 👥 Volunteer Work
+## 👥 volunteer work
 <font size="+1">
 <p>✦ <strong>Yale Entrepreneurial Society</strong> | Connecting Yale with the global startup/VC scene</p>
 <p>✦ <strong>The DICE Initiative</strong> | Led a 160+ member service-based business club for 3 years</p>
@@ -57,7 +57,7 @@
 <br>
 -->
 
-## 🎤 Speaking Engagements
+## 🎤 speaking engagements
 <font size="+1"><p>✦ <strong>TechConnect World Innovation Conference</strong>  | "Programmable Matter" at Gaylord National Convention Center, June 19-21, 2023</p>
 <p>✦ <strong>Engineering Council of Houston Banquet</strong>  | Keynote at the Forest Club, May 24, 2023</p>
 <p>✦ <strong>South by Southwest Conference</strong>  | "Programmable Matter: The Dawn of Smart Materials" at Austin Marriott Downtown, March 11, 2023</p>
@@ -65,7 +65,7 @@
 <p>✦ <strong>Greater Houston Women's Chamber of Commerce Summit</strong> | Keynote at the Woodlands Resort, November 18, 2021</p></font>
 <div class="spacer"></div>
 
-## 🏆 Awards and Press
+## 🏆 awards and press
 
 <font size="+1"><p>✦ <strong>Regeneron Science Talent Search</strong>  | <a href="https://www.societyforscience.org/press-release/300-teen-scientists-selected-as-regeneron-sts-2023-scholars/" target="_blank" rel="noopener noreferrer">Top 300 Scholar</a></p>
 <p>✦ <strong>Regeneron International Science and Engineering Fair</strong> | <a href="https://www.societyforscience.org/press-release/2022-regeneron-isef-top-winners/" target="_blank" rel="noopener noreferrer">1st in Materials Science</a></p>
@@ -77,11 +77,23 @@
 <p>✦ <strong>Houston Business Journal</strong> | <a href="https://www.bizjournals.com/houston/inno/stories/awards/2021/10/29/meet-houston-inno-under-25-awards-honorees.html" target="_blank" rel="noopener noreferrer">Inno 25 Under 25</a></p></font>
 <div class="spacer"></div>
 
-## 🪩 Sohi FM
+## 🪩 sohi fm
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2HpXdE2vsl8CNBk0rzxKP3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <br>
 
-## 📮 Connect With Me
+## 🕯️ poetry portfolio
+<a href="page1.html" class="square">Page 1</a>
+<a href="page2.html" class="square">Page 2</a>
+<a href="page3.html" class="square">Page 3</a>
+<a href="page4.html" class="square">Page 4</a>
+<a href="page5.html" class="square">Page 5</a>
+<a href="page11.html" class="square">Page 11</a>
+<a href="page12.html" class="square">Page 12</a>
+<a href="page13.html" class="square">Page 13</a>
+<a href="page14.html" class="square">Page 14</a>
+<a href="page15.html" class="square">Page 15</a>
+
+## 📮 connect with me
 
 <center><a href="https://twitter.com/sohi_patel" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215394588-38c0cdb1-bc66-4bdc-9137-60c82627be9c.png" width="60" height="60" align="center"/></a><a href="https://calendly.com/sohipatel" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/226227735-bfc79f88-e0af-4d19-893f-f94379d0da79.png" width="60" height="60" align="center"/></a><a href="mailto:sohi.patel@yale.edu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215394904-8b7ba959-9a09-4e8d-805c-60e15dadc2bb.png" width="60" height="60" align="center"/></a><a href="https://linkedin.com/in/sohipatel" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215395215-69a65eab-d35e-4986-a3fc-5a507bcf282c.png" width="60" height="60" align="center"/></a></center>
 <font size="+1"><center><p><em>Feel free to reach out and thanks for stopping by!</em></p></center></font>
