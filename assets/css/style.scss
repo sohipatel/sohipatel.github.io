@@ -258,6 +258,33 @@ html, body {
     padding: 0.6em;
   }
 
+  .poems {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 50px;
+  }
+
+  .square {
+    width: calc(20% - 2 * 10px); /* 20% width for 5 columns with spacing */
+      height: 100px; /* Adjust the height as needed */
+      background-color: #ff0000; /* Default color */
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      color: #ffffff; /* Text color */
+      text-decoration: none;
+  }
+
+  .square:nth-child(odd) {
+      background-color: #00ff00; /* Alternate color 1 */
+  }
+
+  .square:nth-child(even) {
+      background-color: #0000ff; /* Alternate color 2 */
+  }
+
   .items {
     position: relative;
     width: 100%;
