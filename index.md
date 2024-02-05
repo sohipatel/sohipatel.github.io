@@ -79,7 +79,7 @@
 
 ## 🕯️ poetry portfolio
 <div class="poems">
-    <div class="tooltip" title="caution, decomposed"><a href="poems/cautiondecomposed.pdf" class="square" target="_blank" rel="noopener noreferrer"></a><div class="tooltip-text">caution, decomposed</div></div>
+    <a href="poems/cautiondecomposed.pdf" class="square" data-tooltip="caution, decomposed" target="_blank" rel="noopener noreferrer"></a>
     <a href="poems/bat.pdf" class="square" data-tooltip="bat" target="_blank" rel="noopener noreferrer"> </a>
     <a href="poems/progressioninfive.pdf" class="square" data-tooltip="progression in five" target="_blank" rel="noopener noreferrer"> </a>
     <a href="poems/saturday.pdf" class="square" data-tooltip="saturday" target="_blank" rel="noopener noreferrer"> </a>
