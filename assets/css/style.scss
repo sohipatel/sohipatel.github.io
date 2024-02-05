@@ -266,7 +266,7 @@ html, body {
   }
 
   .square {
-    width: calc(12.5% - 2 * 10px); /* 12.5% width for 8 columns with spacing */
+      width: calc(12.5% - 2 * 10px); /* 12.5% width for 8 columns with spacing */
       height: 60px; /* Adjust the height as needed */
       background-color: #ff0000; /* Default color */
       display: flex;
@@ -276,6 +276,20 @@ html, body {
       text-align: center;
       color: #ffffff; /* Text color */
       text-decoration: none;
+  }
+
+  .square:hover::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #333;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+    white-space: nowrap;
+    z-index: 1;
   }
 
   .square:nth-child(4n+1) {
