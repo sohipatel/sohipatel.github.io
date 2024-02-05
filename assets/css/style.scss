@@ -267,7 +267,7 @@ html, body {
 
   .square {
     width: calc(20% - 2 * 10px); /* 20% width for 5 columns with spacing */
-      height: 70px; /* Adjust the height as needed */
+      height: 100px; /* Adjust the height as needed */
       background-color: #ff0000; /* Default color */
       display: flex;
       flex-direction: row;
@@ -279,11 +279,11 @@ html, body {
   }
 
   .square:nth-child(odd) {
-      background-color: #00ff00; /* Alternate color 1 */
+      background-color: #FF0294; /* Alternate color 1 */
   }
 
   .square:nth-child(even) {
-      background-color: #0000ff; /* Alternate color 2 */
+      background-color: #FF8102;
   }
 
   .items {
