@@ -89,8 +89,6 @@
     <a href="poems/saturday.pdf" class="square" data-tooltip="saturday"> </a>
     <a href="poems/growingcomfortable.pdf" class="square" data-tooltip="growing comfortable"> </a>
     <a href="poems/panacea.pdf" class="square" data-tooltip="panacea"> </a>
-    <a href="poems/afterscartissue.pdf" class="square" data-tooltip="after "Scar Tissue""> </a>
-    <a href="poems/property.pdf" class="square" data-tooltip="property"> </a>
     <a href="poems/inpackscouldprowl.pdf" class="square" data-tooltip="in packs, could prowl"> </a>
     <a href="poems/yellowblue.pdf" class="square" data-tooltip="yellow blue"> </a>
     <a href="poems/volume.pdf" class="square" data-tooltip="volume (every)"> </a>
