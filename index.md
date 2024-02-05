@@ -79,21 +79,21 @@
 
 ## 🕯️ poetry portfolio
 <div class="poems">
-    <a href="poems/cautiondecomposed.pdf" class="square" data-tooltip="caution, decomposed"> </a>
-    <a href="poems/bat.pdf" class="square" data-tooltip="bat"> </a>
-    <a href="poems/progressioninfive.pdf" class="square" data-tooltip="progression in five"> </a>
-    <a href="poems/saturday.pdf" class="square" data-tooltip="saturday"> </a>
-    <a href="poems/growingcomfortable.pdf" class="square" data-tooltip="growing comfortable"> </a>
-    <a href="poems/panacea.pdf" class="square" data-tooltip="panacea"> </a>
-    <a href="poems/inpackscouldprowl.pdf" class="square" data-tooltip="in packs, could prowl"> </a>
-    <a href="poems/yellowblue.pdf" class="square" data-tooltip="yellow blue"> </a>
-    <a href="poems/volume.pdf" class="square" data-tooltip="volume (every)"> </a>
-    <a href="poems/carcinization.pdf" class="square" data-tooltip="carcinization (career-ending injuries)"> </a>
-    <a href="poems/hewhohesitatesislost.pdf" class="square" data-tooltip="he who hesitates is lost"> </a>
-    <a href="poems/etemenanki.pdf" class="square" data-tooltip="etemenanki (where the wild things are)"> </a>
-    <a href="poems/ondemand.pdf" class="square" data-tooltip="on demand"> </a>
-    <a href="poems/mrtrue.pdf" class="square" data-tooltip="mr. true"> </a>
-    <a href="poems/xkcd59.pdf" class="square" data-tooltip="xkcd 59"> </a>
+    <div class="tooltip" title="caution, decomposed"><a href="poems/cautiondecomposed.pdf" class="square" target="_blank" rel="noopener noreferrer"></a><div class="tooltip-text">caution, decomposed</div></div>
+    <a href="poems/bat.pdf" class="square" data-tooltip="bat" target="_blank" rel="noopener noreferrer"> </a>
+    <a href="poems/progressioninfive.pdf" class="square" data-tooltip="progression in five" target="_blank" rel="noopener noreferrer"> </a>
+    <a href="poems/saturday.pdf" class="square" data-tooltip="saturday" target="_blank" rel="noopener noreferrer"> </a>
+    <a href="poems/growingcomfortable.pdf" class="square" data-tooltip="growing comfortable" target="_blank" rel="noopener noreferrer"> </a>
+    <a href="poems/panacea.pdf" class="square" data-tooltip="panacea" target="_blank" rel="noopener noreferrer"> </a>
+    <a href="poems/inpackscouldprowl.pdf" class="square" data-tooltip="in packs, could prowl" target="_blank" rel="noopener noreferrer"> </a>
+    <a href="poems/yellowblue.pdf" class="square" data-tooltip="yellow blue" target="_blank" rel="noopener noreferrer"> </a>
+    <a href="poems/volume.pdf" class="square" data-tooltip="volume (every)" target="_blank" rel="noopener noreferrer"> </a>
+    <a href="poems/carcinization.pdf" class="square" data-tooltip="carcinization (career-ending injuries)" target="_blank" rel="noopener noreferrer"> </a>
+    <a href="poems/hewhohesitatesislost.pdf" class="square" data-tooltip="he who hesitates is lost" target="_blank" rel="noopener noreferrer"> </a>
+    <a href="poems/etemenanki.pdf" class="square" data-tooltip="etemenanki (where the wild things are)" target="_blank" rel="noopener noreferrer"> </a>
+    <a href="poems/ondemand.pdf" class="square" data-tooltip="on demand" target="_blank" rel="noopener noreferrer"> </a>
+    <a href="poems/mrtrue.pdf" class="square" data-tooltip="mr. true" target="_blank" rel="noopener noreferrer"> </a>
+    <a href="poems/xkcd59.pdf" class="square" data-tooltip="xkcd 59" target="_blank" rel="noopener noreferrer"> </a>
 </div>
 <br>
 
