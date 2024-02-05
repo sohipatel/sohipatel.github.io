@@ -278,6 +278,12 @@ html, body {
       text-decoration: none;
   }
 
+  @media only screen and (max-width: 768px) {
+    .square {
+      height: 30px;
+    }
+  }
+
   .square:nth-child(4n+1) {
       background-color: #FF0294;
   }
