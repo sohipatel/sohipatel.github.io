@@ -278,11 +278,15 @@ html, body {
       text-decoration: none;
   }
 
-  .square:nth-child(odd) {
-      background-color: #FF0294; /* Alternate color 1 */
+  .square:nth-child(3n+1) {
+      background-color: #FF0294;
   }
 
-  .square:nth-child(even) {
+  .square:nth-child(3n+2) {
+      background-color: #FF404D;
+  }
+
+  .square:nth-child(3n) {
       background-color: #FF8102;
   }
 
