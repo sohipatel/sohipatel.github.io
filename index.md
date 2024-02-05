@@ -93,7 +93,6 @@
     <a href="poems/property.pdf" class="square" data-tooltip="property"> </a>
     <a href="poems/inpackscouldprowl.pdf" class="square" data-tooltip="in packs, could prowl"> </a>
     <a href="poems/yellowblue.pdf" class="square" data-tooltip="yellow blue"> </a>
-    <a href="poems/thickbloodbecause.pdf" class="square" data-tooltip="thick blood, because"> </a>
     <a href="poems/volume.pdf" class="square" data-tooltip="volume (every)"> </a>
     <a href="poems/carcinization.pdf" class="square" data-tooltip="carcinization (career-ending injuries)"> </a>
     <a href="poems/hewhohesitatesislost.pdf" class="square" data-tooltip="he who hesitates is lost"> </a>
