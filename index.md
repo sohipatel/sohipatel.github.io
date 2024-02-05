@@ -83,18 +83,26 @@
 
 ## 🕯️ poetry portfolio
 <div class="poems">
-    <a href="page1.html" class="square">Page 1</a>
-    <a href="page2.html" class="square">Page 2</a>
-    <a href="page3.html" class="square">Page 3</a>
-    <a href="page4.html" class="square">Page 4</a>
-    <a href="page5.html" class="square">Page 5</a>
-    <a href="page11.html" class="square">Page 11</a>
-    <a href="page12.html" class="square">Page 12</a>
-    <a href="page13.html" class="square">Page 13</a>
-    <a href="page14.html" class="square">Page 14</a>
-    <a href="page15.html" class="square">Page 15</a>
+    <a href="page1.html" class="square"> </a>
+    <a href="page2.html" class="square"> </a>
+    <a href="page3.html" class="square"> </a>
+    <a href="page4.html" class="square"> </a>
+    <a href="page5.html" class="square"> </a>
+    <a href="page6.html" class="square"> </a>
+    <a href="page7.html" class="square"> </a>
+    <a href="page8.html" class="square"> </a>
+    <a href="page9.html" class="square"> </a>
+    <a href="page10.html" class="square"> </a>
+    <a href="page11.html" class="square"> </a>
+    <a href="page12.html" class="square"> </a>
+    <a href="page13.html" class="square"> </a>
+    <a href="page14.html" class="square"> </a>
+    <a href="page15.html" class="square"> </a>
+    <a href="page16.html" class="square"> </a>
+    <a href="page17.html" class="square"> </a>
+    <a href="page18.html" class="square"> </a>
 </div>
-<div class="spacer"></div>
+<br>
 
 ## 📮 connect with me
 
