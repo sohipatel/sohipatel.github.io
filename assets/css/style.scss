@@ -278,16 +278,20 @@ html, body {
       text-decoration: none;
   }
 
-  .square:nth-child(3n+1) {
+  .square:nth-child(4n+1) {
       background-color: #FF0294;
   }
 
-  .square:nth-child(3n+2) {
+  .square:nth-child(4n+2) {
       background-color: #FF404D;
   }
 
-  .square:nth-child(3n) {
+  .square:nth-child(4n+3) {
       background-color: #FF8102;
+  }
+
+  .square:nth-child(4n) {
+      background-color: #CA3D33;
   }
 
   .items {
