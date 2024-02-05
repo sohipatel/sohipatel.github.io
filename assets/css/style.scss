@@ -294,6 +294,10 @@ html, body {
       background-color: #CA3D33;
   }
 
+  .square:hover {
+      filter: brightness(85%);
+  }
+  
   .items {
     position: relative;
     width: 100%;
