@@ -83,24 +83,24 @@
 
 ## 🕯️ poetry portfolio
 <div class="poems">
-    <a href="page1.html" class="square"> </a>
-    <a href="page2.html" class="square"> </a>
-    <a href="page3.html" class="square"> </a>
-    <a href="page4.html" class="square"> </a>
-    <a href="page5.html" class="square"> </a>
-    <a href="page6.html" class="square"> </a>
-    <a href="page7.html" class="square"> </a>
-    <a href="page8.html" class="square"> </a>
-    <a href="page9.html" class="square"> </a>
-    <a href="page10.html" class="square"> </a>
-    <a href="page11.html" class="square"> </a>
-    <a href="page12.html" class="square"> </a>
-    <a href="page13.html" class="square"> </a>
-    <a href="page14.html" class="square"> </a>
-    <a href="page15.html" class="square"> </a>
-    <a href="page16.html" class="square"> </a>
-    <a href="page17.html" class="square"> </a>
-    <a href="page18.html" class="square"> </a>
+    <a href="poems/cautiondecomposed.pdf" class="square"> </a>
+    <a href="poems/bat.pdf" class="square"> </a>
+    <a href="poems/progressioninfive.pdf" class="square"> </a>
+    <a href="poems/saturday.pdf" class="square"> </a>
+    <a href="poems/growingcomfortable.pdf" class="square"> </a>
+    <a href="poems/panacea.pdf" class="square"> </a>
+    <a href="poems/afterscartissue.pdf" class="square"> </a>
+    <a href="poems/still.pdf" class="square"> </a>
+    <a href="poems/inpackscouldprowl.pdf" class="square"> </a>
+    <a href="poems/yellowblue.pdf" class="square"> </a>
+    <a href="poems/thickbloodbecause.pdf" class="square"> </a>
+    <a href="poems/volume.pdf" class="square"> </a>
+    <a href="poems/carcinization.pdf" class="square"> </a>
+    <a href="poems/hewhohesitatesislost.pdf" class="square"> </a>
+    <a href="poems/etemenanki.pdf" class="square"> </a>
+    <a href="poems/ondemand.pdf" class="square"> </a>
+    <a href="poems/mrtrue.pdf" class="square"> </a>
+    <a href="poems/xkcd59.pdf" class="square"> </a>
 </div>
 <br>
 
