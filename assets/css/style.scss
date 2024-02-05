@@ -267,7 +267,7 @@ html, body {
 
   .square {
     width: calc(12.5% - 2 * 10px); /* 12.5% width for 8 columns with spacing */
-      height: 75px; /* Adjust the height as needed */
+      height: 60px; /* Adjust the height as needed */
       background-color: #ff0000; /* Default color */
       display: flex;
       flex-direction: row;
