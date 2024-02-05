@@ -83,24 +83,24 @@
 
 ## 🕯️ poetry portfolio
 <div class="poems">
-    <a href="poems/cautiondecomposed.pdf" class="square"> </a>
-    <a href="poems/bat.pdf" class="square"> </a>
-    <a href="poems/progressioninfive.pdf" class="square"> </a>
-    <a href="poems/saturday.pdf" class="square"> </a>
-    <a href="poems/growingcomfortable.pdf" class="square"> </a>
-    <a href="poems/panacea.pdf" class="square"> </a>
-    <a href="poems/afterscartissue.pdf" class="square"> </a>
-    <a href="poems/still.pdf" class="square"> </a>
-    <a href="poems/inpackscouldprowl.pdf" class="square"> </a>
-    <a href="poems/yellowblue.pdf" class="square"> </a>
-    <a href="poems/thickbloodbecause.pdf" class="square"> </a>
-    <a href="poems/volume.pdf" class="square"> </a>
-    <a href="poems/carcinization.pdf" class="square"> </a>
-    <a href="poems/hewhohesitatesislost.pdf" class="square"> </a>
-    <a href="poems/etemenanki.pdf" class="square"> </a>
-    <a href="poems/ondemand.pdf" class="square"> </a>
-    <a href="poems/mrtrue.pdf" class="square"> </a>
-    <a href="poems/xkcd59.pdf" class="square"> </a>
+    <a href="poems/cautiondecomposed.pdf" class="square" data-tooltip="caution, decomposed"> </a>
+    <a href="poems/bat.pdf" class="square" data-tooltip="bat"> </a>
+    <a href="poems/progressioninfive.pdf" class="square" data-tooltip="progression in five"> </a>
+    <a href="poems/saturday.pdf" class="square" data-tooltip="saturday"> </a>
+    <a href="poems/growingcomfortable.pdf" class="square" data-tooltip="growing comfortable"> </a>
+    <a href="poems/panacea.pdf" class="square" data-tooltip="panacea"> </a>
+    <a href="poems/afterscartissue.pdf" class="square" data-tooltip="after "Scar Tissue""> </a>
+    <a href="poems/still.pdf" class="square" data-tooltip="still, "> </a>
+    <a href="poems/inpackscouldprowl.pdf" class="square" data-tooltip="in packs, could prowl"> </a>
+    <a href="poems/yellowblue.pdf" class="square" data-tooltip="yellow blue"> </a>
+    <a href="poems/thickbloodbecause.pdf" class="square" data-tooltip="thick blood, because"> </a>
+    <a href="poems/volume.pdf" class="square" data-tooltip="volume (every)"> </a>
+    <a href="poems/carcinization.pdf" class="square" data-tooltip="carcinization (career-ending injuries)"> </a>
+    <a href="poems/hewhohesitatesislost.pdf" class="square" data-tooltip="he who hesitates is lost"> </a>
+    <a href="poems/etemenanki.pdf" class="square" data-tooltip="etemenanki (where the wild things are)"> </a>
+    <a href="poems/ondemand.pdf" class="square" data-tooltip="on demand"> </a>
+    <a href="poems/mrtrue.pdf" class="square" data-tooltip="mr. true"> </a>
+    <a href="poems/xkcd59.pdf" class="square" data-tooltip="xkcd 59"> </a>
 </div>
 <br>
 
