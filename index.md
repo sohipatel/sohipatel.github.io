@@ -84,6 +84,7 @@
     <a href="poems/progressioninfive.pdf" class="square" data-tooltip="progression in five" target="_blank" rel="noopener noreferrer"> </a>
     <a href="poems/saturday.pdf" class="square" data-tooltip="saturday" target="_blank" rel="noopener noreferrer"> </a>
     <a href="poems/growingcomfortable.pdf" class="square" data-tooltip="growing comfortable" target="_blank" rel="noopener noreferrer"> </a>
+    <a href="poems/property.pdf" class="square" data-tooltip="property" target="_blank" rel="noopener noreferrer"> </a>
     <a href="poems/panacea.pdf" class="square" data-tooltip="panacea" target="_blank" rel="noopener noreferrer"> </a>
     <a href="poems/inpackscouldprowl.pdf" class="square" data-tooltip="in packs, could prowl" target="_blank" rel="noopener noreferrer"> </a>
     <a href="poems/yellowblue.pdf" class="square" data-tooltip="yellow blue" target="_blank" rel="noopener noreferrer"> </a>
