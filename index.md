@@ -94,7 +94,6 @@
     <a href="poems/etemenanki.pdf" class="square" data-tooltip="etemenanki (where the wild things are)" target="_blank" rel="noopener noreferrer"> </a>
     <a href="poems/ondemand.pdf" class="square" data-tooltip="on demand" target="_blank" rel="noopener noreferrer"> </a>
     <a href="poems/mrtrue.pdf" class="square" data-tooltip="mr. true" target="_blank" rel="noopener noreferrer"> </a>
-    <a href="poems/xkcd59.pdf" class="square" data-tooltip="xkcd 59" target="_blank" rel="noopener noreferrer"> </a>
 </div>
 <br>
 
