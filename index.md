@@ -23,7 +23,7 @@
 
 ## 👥 volunteer work
 <font size="+1">
-<p>✦ <strong>Yale Entrepreneurial Society</strong> | Connecting Yale with the global startup/VC scene</p>
+<p>✦ <strong>Yale Entrepreneurial Society</strong> | Building an exclusive accelerator for 380+ Fellows</p>
 <p>✦ <strong>The DICE Initiative</strong> | Led a 160+ member service-based business club for 3 years</p>
 <p>✦ <strong>TechTogether (acq. MLH)</strong> | Raised $14k+ from sponsors like Microsoft and VZW</p></font>
 <div class="spacer"></div>
