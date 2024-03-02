@@ -13,7 +13,7 @@
 ## 📈 key experiences
 
 <font size="+1">
-<p>✦ <strong>Organ</strong> | Democratizing healthcare with at-home, personalized diagnostics and treatment</p>
+<p>✦ <strong>Organ</strong> | Democratizing healthcare with at-home, custom diagnostics and treatment</p>
 <p>✦ <strong>Gravel Robotics (acq.)</strong> | Founded and sold a programmable matter startup</p>
 <p>✦ <strong>MIT Lincoln Laboratory</strong> | Federally funded to research radars and surveillance</p>
 <p>✦ <strong>NASA Johnson Space Center</strong> | Built a VR microgravity simulator for NEO asteroids</p>
