@@ -1,19 +1,19 @@
 ## 👋 hello!
 
 <center><img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/298962b2-3062-4cfd-ae6d-69dc15967e6b" width="98%"></center>
-<font size="+1"><p>I'm Sohi, engineering student by day and deep tech founder by night. I'm interested in using robotics, advanced materials, and nanotech to build the devices of the future and augment the human experience. I live by 2 core philosophies: nothing imaginable is impossible to build and if I don't build it, who will?</p></font>
+<font size="+1"><p>I'm Sohi, engineering student by day and deep tech founder by night. I'm interested in using electronics, robotics, and nanotech to build the devices of the future and augment the human experience. I live by 2 core philosophies: nothing imaginable is impossible to build and if I don't build it, who will?</p></font>
 <div class="spacer"></div>
 
 ## 📜 education
 
 <font size="+1">
-<p>✦ <strong>Yale University</strong> | B.S. in Economics and B.S. in Electrical Engineering and Computer Science</p></font>
+<p>✦ <strong>Yale University</strong> | B.S. in Electrical Engineering and B.S. in Economics</p></font>
 <div class="spacer"></div>
 
 ## 📈 key experiences
 
 <font size="+1">
-<p>✦ <strong>Organ</strong> | Decentralizing healthcare with custom, at-home diagnostics and treatment</p>
+<p>✦ <strong>Organ</strong> | Building a wearable to realize the human data layer for healthcare ML</p>
 <p>✦ <strong>Gravel Robotics (acq.)</strong> | Founded and sold a programmable matter startup</p>
 <p>✦ <strong>MIT Lincoln Laboratory</strong> | Federally funded to research radars and surveillance</p>
 <p>✦ <strong>NASA Johnson Space Center</strong> | Built a VR microgravity simulator for NEO asteroids</p>
@@ -23,7 +23,7 @@
 
 ## 👥 volunteer work
 <font size="+1">
-<p>✦ <strong>Yale Entrepreneurial Society</strong> | Building an exclusive accelerator for 380+ Fellows</p>
+<p>✦ <strong>Yale Entrepreneurial Society</strong> | Built an accelerator program for 380+ Fellows</p>
 <p>✦ <strong>The DICE Initiative</strong> | Led a 160+ member service-based business club for 3 years</p>
 <p>✦ <strong>TechTogether (acq. MLH)</strong> | Raised $14k+ from sponsors like Microsoft and VZW</p></font>
 <div class="spacer"></div>
