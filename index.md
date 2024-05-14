@@ -73,6 +73,7 @@
 <p>✦ <strong>MIT Technology Review</strong> | <a href="https://www.innovatorsunder35.com/" target="_blank" rel="noopener noreferrer">35 Innovators Under 35 Top 100 Semi-Finalist</a></p>
 <p>✦ <strong>Regeneron International Science and Engineering Fair</strong> | <a href="https://www.societyforscience.org/press-release/regeneron-isef-full-awards-2023/" target="_blank" rel="noopener noreferrer">3rd in Materials Science</a></p>
 <p>✦ <strong>Regeneron International Science and Engineering Fair</strong> | <a href="https://www.societyforscience.org/press-release/2021-regeneron-isef-grand-awards/" target="_blank" rel="noopener noreferrer">4th in Materials Science</a></p>
+<p>✦ <strong>Pear VC</strong> | <a href="https://pear.vc/competition/" target="_blank" rel="noopener noreferrer">Pear Competition Runner-Up</a></p>
 <p>✦ <strong>Houston Business Journal</strong> | <a href="https://www.bizjournals.com/houston/inno/stories/awards/2021/10/29/meet-houston-inno-under-25-awards-honorees.html" target="_blank" rel="noopener noreferrer">Inno 25 Under 25</a></p></font>
 <div class="spacer"></div>
 
