@@ -1,13 +1,13 @@
 ## 👋 hello!
 
 <center><img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/298962b2-3062-4cfd-ae6d-69dc15967e6b" width="98%"></center>
-<font size="+1"><p>I'm Sohi, engineering student by day and deep tech founder by night. I'm interested in using electronics, robotics, and nanotech to build the devices of the future and augment the human experience. I live by 2 core philosophies: nothing imaginable is impossible to build and if I don't build it, who will?</p></font>
+<font size="+1"><p>I'm Sohi, engineering student by day and tech founder by night. I'm interested in using electronics, robotics, and nanotech to build the devices of the future and augment the human experience. I live by 2 core philosophies: nothing imaginable is impossible to build and if I don't build it, who will?</p></font>
 <div class="spacer"></div>
 
 ## 📜 education
 
 <font size="+1">
-<p>✦ <strong>Yale University</strong> | B.S. in Electrical Engineering and B.S. in Economics</p></font>
+<p>✦ <strong>Yale University</strong> | B.S. in Electrical Engineering</p></font>
 <div class="spacer"></div>
 
 ## 📈 key experiences
