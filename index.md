@@ -7,7 +7,7 @@
 ## 📜 education
 
 <font size="+1">
-<p>✦ <strong>Yale University</strong> | B.S. in Electrical Engineering</p></font>
+<p>✦ <strong>Yale University</strong> | B.S. in Electrical Engineering, 2023-2027</p></font>
 <div class="spacer"></div>
 
 ## 📈 key experiences
