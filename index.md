@@ -58,7 +58,7 @@
 -->
 
 ## 🎤 speaking engagements
-<font size="+1"><p>✦ <strong>World Youth Economic Forum</strong>  | "Tech-Driven Economic Growth" at Shanghai World Financial Center, July 24-30, 2024</p>
+<font size="+1"><p>✦ <strong>World Youth Economic Forum</strong>  | "Tech-Driven Economic Growth" at Suzhou International Conference Hotel, July 24-30, 2024</p>
 <p>✦ <strong>TechConnect World Innovation Conference</strong>  | "Programmable Matter" at Gaylord National Convention Center, June 19-21, 2023</p>
 <p>✦ <strong>Engineering Council of Houston Banquet</strong>  | Keynote at the Forest Club, May 24, 2023</p>
 <p>✦ <strong>ISEF Education Outreach Day</strong>  | "Effective Scientific Communication" at Georgia World Congress Center, May 12, 2022</p>
