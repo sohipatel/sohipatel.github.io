@@ -1,7 +1,7 @@
 ## 👋 hello!
 
-<center><img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/298962b2-3062-4cfd-ae6d-69dc15967e6b" width="98%"></center>
-<font size="+1"><p>I'm Sohi, engineering student by day and tech founder by night. I'm interested in using electronics, robotics, and nanotech to build the devices of the future and augment the human experience. I live by 2 core philosophies: nothing imaginable is impossible to build and if I don't build it, who will?</p></font>
+<!-- <center><img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/298962b2-3062-4cfd-ae6d-69dc15967e6b" width="98%"></center> -->
+<font size="+1"><p>I'm Sohi, an 18 year old inventor with a passion for building a future involving human longevity, intergalactic civilization, and advanced silicon tech, a deep love for everything electronics, robotics, materials science, and nanotech, and a history of watching too much Star Wars, Iron Man, EEVblog, and ElectroBOOM.</p></font>
 <div class="spacer"></div>
 
 ## 📜 education
@@ -14,16 +14,16 @@
 
 <font size="+1">
 <p>✦ <strong>Organ</strong> | Building a wearable to realize the human data layer for healthcare ML</p>
-<p>✦ <strong>Gravel Robotics (acq.)</strong> | Founded and sold a programmable matter startup</p>
-<p>✦ <strong>MIT Lincoln Laboratory</strong> | Federally funded to research radars and surveillance</p>
+<p>✦ <strong>Yale Peabody Museum</strong> | Documenting a photogrammetric 3D reconstruction system</p>
+<p>✦ <strong>Gravel Robotics (acq.)</strong> | Founded and sold a microrobot manufacturing startup</p>
+<p>✦ <strong>MIT Lincoln Laboratory</strong> | Federally funded to research radars for autonomous systems</p>
 <p>✦ <strong>NASA Johnson Space Center</strong> | Built a VR microgravity simulator for NEO asteroids</p>
 <p>✦ <strong>Houston Museum of Natural Science</strong> | Created 2 best-selling planetarium shows</p>
-<p>✦ <strong>SMU BAST Lab</strong> | Investigated solid-state nanopores for single molecule studies</p></font>
 <div class="spacer"></div>
 
 ## 👥 volunteer work
 <font size="+1">
-<p>✦ <strong>Yale Entrepreneurial Society</strong> | Built an accelerator program for 380+ Fellows</p>
+<p>✦ <strong>Yale Entrepreneurial Society</strong> | Built an accelerator program for 380+ Fellows </p>
 <p>✦ <strong>The DICE Initiative</strong> | Led a 160+ member service-based business club for 3 years</p>
 <p>✦ <strong>TechTogether (acq. MLH)</strong> | Raised $14k+ from sponsors like Microsoft and VZW</p></font>
 <div class="spacer"></div>
