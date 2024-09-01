@@ -18,7 +18,7 @@
 <p>✦ <strong>Gravel Robotics (acq.)</strong> | Founded and sold a microrobot manufacturing startup</p>
 <p>✦ <strong>MIT Lincoln Laboratory</strong> | Federally funded to research radars for autonomous systems</p>
 <p>✦ <strong>NASA Johnson Space Center</strong> | Built a VR microgravity simulator for NEO asteroids</p>
-<p>✦ <strong>Houston Museum of Natural Science</strong> | Created 2 best-selling planetarium shows</p>
+<p>✦ <strong>Houston Museum of Natural Science</strong> | Created 2 best-selling planetarium shows</p></font>
 <div class="spacer"></div>
 
 ## 👥 volunteer work
