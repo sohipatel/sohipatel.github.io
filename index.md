@@ -15,7 +15,7 @@
 <font size="+1">
 <p>✦ <strong>Organ</strong> | Building a wearable to realize the human data layer for healthcare ML</p>
 <p>✦ <strong>Yale Peabody Museum</strong> | Documenting a photogrammetric 3D imaging machine</p>
-<p>✦ <strong>Gravel Robotics (acq.)</strong> | Founded and sold a microrobot manufacturing startup</p>
+<p>✦ <strong>Gravel Robotics</strong> | Founded and sold a microrobotics manufacturing startup</p>
 <p>✦ <strong>MIT Lincoln Laboratory</strong> | Federally funded to research radars and surveillance</p>
 <p>✦ <strong>NASA Johnson Space Center</strong> | Built a VR microgravity simulator for NEO asteroids</p>
 <p>✦ <strong>Houston Museum of Natural Science</strong> | Created 2 best-selling planetarium shows</p></font>
