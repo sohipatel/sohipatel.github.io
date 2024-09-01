@@ -1,7 +1,7 @@
 ## 👋 hello!
 
 <center><img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/298962b2-3062-4cfd-ae6d-69dc15967e6b" width="98%"></center>
-<font size="+1"><p>I'm Sohi, an 18 year old inventor with a passion for building a future involving human longevity, intergalactic civilization, and advanced chips, a deep love for everything electronics, robotics, materials science, and nanotech, and a history of watching too much Star Wars, Iron Man, EEVblog, and ElectroBOOM.</p></font>
+<font size="+1"><p>I'm Sohi, an 18 year old inventor with a passion for building a future involving human longevity, intergalactic civilization, and advanced chips, a deep love for everything electronics, robotics, materials science, and nanotech, and a history of watching too much <em>Star Wars</em>, <em>Iron Man</em>, EEVblog, and ElectroBOOM.</p></font>
 <div class="spacer"></div>
 
 ## 📜 education
