@@ -1,7 +1,7 @@
 ## 👋 hello!
 
 <!-- <center><img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/298962b2-3062-4cfd-ae6d-69dc15967e6b" width="98%"></center> -->
-<font size="+1"><p>I'm Sohi, an 18 year old inventor with a passion for building a future involving human longevity, intergalactic civilization, and advanced silicon tech, a deep love for everything electronics, robotics, materials science, and nanotech, and a history of watching too much Star Wars, Iron Man, EEVblog, and ElectroBOOM.</p></font>
+<font size="+1"><p>I'm Sohi, an 18 year old inventor with a passion for building a future involving <em>human longevity</em>, <em>intergalactic civilization</em>, and <em>advanced chips</em>, a deep love for everything <em>electronics</em>, <em>robotics</em>, <em>materials science</em>, and <em>nanotech</em>, and a history of watching too much <em>Star Wars</em>, <em>Iron Man</em>, <em>EEVblog</em>, and <em>ElectroBOOM</em>.</p></font>
 <div class="spacer"></div>
 
 ## 📜 education
@@ -19,13 +19,6 @@
 <p>✦ <strong>MIT Lincoln Laboratory</strong> | Federally funded to research radars and surveillance</p>
 <p>✦ <strong>NASA Johnson Space Center</strong> | Built a VR microgravity simulator for NEO asteroids</p>
 <p>✦ <strong>Houston Museum of Natural Science</strong> | Created 2 best-selling planetarium shows</p></font>
-<div class="spacer"></div>
-
-## 👥 volunteer work
-<font size="+1">
-<p>✦ <strong>Yale Entrepreneurial Society</strong> | Built an accelerator program for 380+ Fellows </p>
-<p>✦ <strong>The DICE Initiative</strong> | Led a 160+ member service-based business club for 3 years</p>
-<p>✦ <strong>TechTogether (acq. MLH)</strong> | Raised $14k+ from sponsors like Microsoft and VZW</p></font>
 <div class="spacer"></div>
 
 <!-- ## 🔧 Featured Projects
@@ -105,7 +98,7 @@
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2HpXdE2vsl8CNBk0rzxKP3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <br>
 
-## 📮 connect with me
+<!-- ## 📮 connect with me
 
 <center><a href="https://twitter.com/sohi_patel" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215394588-38c0cdb1-bc66-4bdc-9137-60c82627be9c.png" width="60" height="60" align="center"/></a><a href="https://calendly.com/sohipatel" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/226227735-bfc79f88-e0af-4d19-893f-f94379d0da79.png" width="60" height="60" align="center"/></a><a href="mailto:sohi.patel@yale.edu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215394904-8b7ba959-9a09-4e8d-805c-60e15dadc2bb.png" width="60" height="60" align="center"/></a><a href="https://linkedin.com/in/sohipatel" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215395215-69a65eab-d35e-4986-a3fc-5a507bcf282c.png" width="60" height="60" align="center"/></a></center>
-<font size="+1"><center><p><em>Feel free to reach out and thanks for stopping by!</em></p></center></font>
+<font size="+1"><center><p><em>Feel free to reach out and thanks for stopping by!</em></p></center></font> -->
