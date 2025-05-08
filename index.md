@@ -71,7 +71,7 @@
 <p>✦ <strong>Houston Business Journal</strong> | <a href="https://www.bizjournals.com/houston/inno/stories/awards/2021/10/29/meet-houston-inno-under-25-awards-honorees.html" target="_blank" rel="noopener noreferrer">Inno 25 Under 25</a></p></font>
 <div class="spacer"></div> -->
 
-## 🕯️ poetry portfolio
+## poems by R.S.P.
 <div class="poems">
     <a href="poems/cautiondecomposed.pdf" class="square" data-tooltip="caution, decomposed" target="_blank" rel="noopener noreferrer"></a>
     <a href="poems/bat295.pdf" class="square" data-tooltip="bat" target="_blank" rel="noopener noreferrer"> </a>
