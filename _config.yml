@@ -1,22 +1,22 @@
 theme: jekyll-theme-slate
 title: 
-  <div class="titleimg">
-    <a href="https://sohipatel.com">
-      <img src="https://user-images.githubusercontent.com/69354578/216737645-1a8d31c0-aaf7-4367-8ca1-f36025d4f430.png" width="98%" align="center">
-    </a>
-  </div>
-  <div class="iconimg">
-    <a href="https://wearorgan.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/6f3ba469-691e-4668-b422-801b48e0dab4" height="55" align="left">
-    </a>
-    <a href="https://linkedin.com/in/sohipatel" target="_blank" rel="noopener noreferrer">
-      <img src="https://user-images.githubusercontent.com/69354578/215395215-69a65eab-d35e-4986-a3fc-5a507bcf282c.png" height="55" align="right">
-    </a>
-    <a href="https://twitter.com/sohi_patel" target="_blank" rel="noopener noreferrer">
-      <img src="https://user-images.githubusercontent.com/69354578/215394588-38c0cdb1-bc66-4bdc-9137-60c82627be9c.png" height="55" align="right">
-    </a>
-  </div>
+# <div class="titleimg">
+#    <a href="https://sohipatel.com">
+#      <img src="https://user-images.githubusercontent.com/69354578/216737645-1a8d31c0-aaf7-4367-8ca1-f36025d4f430.png" width="98%" align="center">
+#    </a>
+#  </div>
+#  <div class="iconimg">
+#    <a href="https://wearorgan.com" target="_blank" rel="noopener noreferrer">
+#      <img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/6f3ba469-691e-4668-b422-801b48e0dab4" height="55" align="left">
+#    </a>
+#    <a href="https://linkedin.com/in/sohipatel" target="_blank" rel="noopener noreferrer">
+#      <img src="https://user-images.githubusercontent.com/69354578/215395215-69a65eab-d35e-4986-a3fc-5a507bcf282c.png" height="55" align="right">
+#    </a>
+#    <a href="https://twitter.com/sohi_patel" target="_blank" rel="noopener noreferrer">
+#      <img src="https://user-images.githubusercontent.com/69354578/215394588-38c0cdb1-bc66-4bdc-9137-60c82627be9c.png" height="55" align="right">
+#    </a>
+#  </div>
    
    
    
-  <br>
+#  <br>
