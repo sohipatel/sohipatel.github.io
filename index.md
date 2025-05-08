@@ -1,4 +1,4 @@
-## 👋 hello!
+<!-- ## 👋 hello!
 
 <center><img src="https://github.com/sohipatel/sohipatel.github.io/assets/69354578/298962b2-3062-4cfd-ae6d-69dc15967e6b" width="98%"></center>
 <font size="+1"><p>I'm Sohi, an 18 year old inventor with a passion for building a future involving human longevity, intergalactic civilization, and advanced chips, a deep love for everything electronics, robotics, materials science, and nanotech, and a history of watching too much <em>Star Wars</em>, <em>Iron Man</em>, EEVblog, and ElectroBOOM.</p></font>
@@ -20,7 +20,7 @@
 <p>✦ <strong>Houston Museum of Natural Science</strong> | Created 2 best-selling planetarium shows</p></font>
 <div class="spacer"></div>
 
-<!-- ## 🔧 Featured Projects
+## 🔧 Featured Projects
 
 <div class="carousel">
     <div class="carousel-inner">
@@ -47,7 +47,7 @@
     </div>
 </div>
 <br>
--->
+
 
 ## 🎤 speaking engagements
 <font size="+1"><p>✦ <strong>World Youth Economic Forum</strong>  | "Tech-Driven Economic Growth" at Suzhou International Conference Hotel, July 24-30, 2024</p>
@@ -69,9 +69,9 @@
 <p>✦ <strong>Emergent Ventures</strong> | <a href="https://marginalrevolution.com/marginalrevolution/2024/05/emergent-ventures-34th-cohort.html" target="_blank" rel="noopener noreferrer">34th Cohort Grant Awardee</a></p>
 <p>✦ <strong>Pear VC</strong> | <a href="https://pear.vc/competition/" target="_blank" rel="noopener noreferrer">Pear Competition Investment Awardee</a></p>
 <p>✦ <strong>Houston Business Journal</strong> | <a href="https://www.bizjournals.com/houston/inno/stories/awards/2021/10/29/meet-houston-inno-under-25-awards-honorees.html" target="_blank" rel="noopener noreferrer">Inno 25 Under 25</a></p></font>
-<div class="spacer"></div>
+<div class="spacer"></div> -->
 
-<!-- ## 🕯️ poetry portfolio
+## 🕯️ poetry portfolio
 <div class="poems">
     <a href="poems/cautiondecomposed.pdf" class="square" data-tooltip="caution, decomposed" target="_blank" rel="noopener noreferrer"></a>
     <a href="poems/bat295.pdf" class="square" data-tooltip="bat" target="_blank" rel="noopener noreferrer"> </a>
@@ -91,13 +91,13 @@
     <a href="poems/cement.pdf" class="square" data-tooltip="cement" target="_blank" rel="noopener noreferrer"> </a>
     <a href="poems/mrtrue.pdf" class="square" data-tooltip="mr. true" target="_blank" rel="noopener noreferrer"> </a>
 </div>
-<br> -->
+<br>
 
-## 🪩 sohi fm
+<!-- ## 🪩 sohi fm
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2HpXdE2vsl8CNBk0rzxKP3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <br>
 
 ## 📮 connect with me
 
 <center><a href="https://twitter.com/sohi_patel" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215394588-38c0cdb1-bc66-4bdc-9137-60c82627be9c.png" width="60" height="60" align="center"/></a><a href="https://calendly.com/sohipatel" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/226227735-bfc79f88-e0af-4d19-893f-f94379d0da79.png" width="60" height="60" align="center"/></a><a href="mailto:sohi.patel@yale.edu" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215394904-8b7ba959-9a09-4e8d-805c-60e15dadc2bb.png" width="60" height="60" align="center"/></a><a href="https://linkedin.com/in/sohipatel" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/69354578/215395215-69a65eab-d35e-4986-a3fc-5a507bcf282c.png" width="60" height="60" align="center"/></a></center>
-<font size="+1"><center><p><em>Feel free to reach out and thanks for stopping by!</em></p></center></font>
+<font size="+1"><center><p><em>Feel free to reach out and thanks for stopping by!</em></p></center></font> -->
